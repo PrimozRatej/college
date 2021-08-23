@@ -1,0 +1,63 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   27.21.14.5671
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.237 seconds
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Oblikovanje arhitekturnih vzorcev\BrickGame_2D\BrickGame_2D\BrickGame_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1080 60Hz; virtual: 4096x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.269000 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.848600 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 641.
+Total: 0.214700 ms (FindLiveObjects: 0.028600 ms CreateObjectMapping: 0.019900 ms MarkObjects: 0.157900 ms  DeleteObjects: 0.007700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.441100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 655.
+Total: 0.251300 ms (FindLiveObjects: 0.031200 ms CreateObjectMapping: 0.022700 ms MarkObjects: 0.192000 ms  DeleteObjects: 0.004800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.406200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 655.
+Total: 0.299900 ms (FindLiveObjects: 0.032300 ms CreateObjectMapping: 0.023400 ms MarkObjects: 0.239000 ms  DeleteObjects: 0.004800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.434700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 655.
+Total: 0.304000 ms (FindLiveObjects: 0.036000 ms CreateObjectMapping: 0.028700 ms MarkObjects: 0.232100 ms  DeleteObjects: 0.006600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.310800 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.176400 ms (FindLiveObjects: 0.017000 ms CreateObjectMapping: 0.010900 ms MarkObjects: 0.140800 ms  DeleteObjects: 0.007200 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 275c -> priority: 1 
+  Thread -> id: 8364 -> priority: 1 
+  Thread -> id: 2cc8 -> priority: 1 
