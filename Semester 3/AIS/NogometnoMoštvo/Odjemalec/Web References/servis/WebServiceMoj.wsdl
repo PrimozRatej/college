@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="prijava">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="geslo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="prijavaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="prijavaResult" type="tns:UporabniskiRacun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="UporabniskiRacun">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="UporabniskiRacunId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="geslo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="aliJeAdmin" type="s:boolean" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SeznamKomitentov">
+        <s:complexType />
+      </s:element>
+      <s:element name="SeznamKomitentovResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SeznamKomitentovResult" type="tns:ArrayOfKomitent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfKomitent">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Komitent" nillable="true" type="tns:Komitent" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Komitent">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="KomitentId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Ime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Priimek" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DavcnaStevilka" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DatumRojstva" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="vrniTransakcije">
+        <s:complexType />
+      </s:element>
+      <s:element name="vrniTransakcijeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="vrniTransakcijeResult" type="tns:ArrayOfTransakcija" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTransakcija">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Transakcija" nillable="true" type="tns:Transakcija" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Transakcija">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="TransakcijaId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="datumTransakcije" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="znesek" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="račun" type="tns:Račun" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Račun">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="RačunId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="lastnik" type="tns:Komitent" />
+          <s:element minOccurs="1" maxOccurs="1" name="stanje" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="limit" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="blokiran" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Banka" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="vrniKomitenteZTransakcijo">
+        <s:complexType />
+      </s:element>
+      <s:element name="vrniKomitenteZTransakcijoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="vrniKomitenteZTransakcijoResult" type="tns:ArrayOfKomitent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="transakcijeKomitenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="davcna" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="transakcijeKomitentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="transakcijeKomitentaResult" type="tns:ArrayOfTransakcija" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="komitent">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="davcna" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="komitentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="komitentResult" type="tns:Komitent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IzpisBlokiranihRačunov">
+        <s:complexType />
+      </s:element>
+      <s:element name="IzpisBlokiranihRačunovResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IzpisBlokiranihRačunovResult" type="tns:ArrayOfRačun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfRačun">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Račun" nillable="true" type="tns:Račun" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="NajvišjaTransakcija">
+        <s:complexType />
+      </s:element>
+      <s:element name="NajvišjaTransakcijaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="NajvišjaTransakcijaResult" type="tns:Transakcija" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="povprecnaStarostKomitentov">
+        <s:complexType />
+      </s:element>
+      <s:element name="povprecnaStarostKomitentovResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="povprecnaStarostKomitentovResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RačunPridobi">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="kom" type="tns:Komitent" />
+            <s:element minOccurs="1" maxOccurs="1" name="idRač" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RačunPridobiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RačunPridobiResult" type="tns:Račun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="KomitentShrani">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="kom" type="tns:Komitent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="KomitentShraniResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="KomitentBriši">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="kom" type="tns:Komitent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="KomitentBrišiResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="KomitentAžuriraj">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="kom" type="tns:Komitent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="KomitentAžurirajResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="KomitentPridobi">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idKomitenta" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="KomitentPridobiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="KomitentPridobiResult" type="tns:Komitent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RačunShrani">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rač" type="tns:Račun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RačunShraniResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="RačunBriši">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rač" type="tns:Račun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RačunBrišiResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="RačunAžuriraj">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rač" type="tns:Račun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RačunAžurirajResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="TransakcijaShrani">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tra" type="tns:Transakcija" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TransakcijaShraniResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="TransakcijaBriši">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tra" type="tns:Transakcija" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TransakcijaBrišiResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="TransakcijaAžuriraj">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tra" type="tns:Transakcija" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TransakcijaAžurirajResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="TransakcijaPridobi">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="transakcijaId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TransakcijaPridobiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TransakcijaPridobiResult" type="tns:Transakcija" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UporabniškiRačunShrani">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="upoRac" type="tns:UporabniskiRacun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UporabniškiRačunShraniResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UporabniškiRačunBriši">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="upoRac" type="tns:UporabniskiRacun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UporabniškiRačunBrišiResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UporabniškiRačunAžuriraj">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="upoRac" type="tns:UporabniskiRacun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UporabniškiRačunAžurirajResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="UporabniškiRačunPridobi">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="uporacID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UporabniškiRačunPridobiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UporabniškiRačunPridobiResult" type="tns:UporabniskiRacun" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="prijavaSoapIn">
+    <wsdl:part name="parameters" element="tns:prijava" />
+  </wsdl:message>
+  <wsdl:message name="prijavaSoapOut">
+    <wsdl:part name="parameters" element="tns:prijavaResponse" />
+  </wsdl:message>
+  <wsdl:message name="SeznamKomitentovSoapIn">
+    <wsdl:part name="parameters" element="tns:SeznamKomitentov" />
+  </wsdl:message>
+  <wsdl:message name="SeznamKomitentovSoapOut">
+    <wsdl:part name="parameters" element="tns:SeznamKomitentovResponse" />
+  </wsdl:message>
+  <wsdl:message name="vrniTransakcijeSoapIn">
+    <wsdl:part name="parameters" element="tns:vrniTransakcije" />
+  </wsdl:message>
+  <wsdl:message name="vrniTransakcijeSoapOut">
+    <wsdl:part name="parameters" element="tns:vrniTransakcijeResponse" />
+  </wsdl:message>
+  <wsdl:message name="vrniKomitenteZTransakcijoSoapIn">
+    <wsdl:part name="parameters" element="tns:vrniKomitenteZTransakcijo" />
+  </wsdl:message>
+  <wsdl:message name="vrniKomitenteZTransakcijoSoapOut">
+    <wsdl:part name="parameters" element="tns:vrniKomitenteZTransakcijoResponse" />
+  </wsdl:message>
+  <wsdl:message name="transakcijeKomitentaSoapIn">
+    <wsdl:part name="parameters" element="tns:transakcijeKomitenta" />
+  </wsdl:message>
+  <wsdl:message name="transakcijeKomitentaSoapOut">
+    <wsdl:part name="parameters" element="tns:transakcijeKomitentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="komitentSoapIn">
+    <wsdl:part name="parameters" element="tns:komitent" />
+  </wsdl:message>
+  <wsdl:message name="komitentSoapOut">
+    <wsdl:part name="parameters" element="tns:komitentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IzpisBlokiranihRačunovSoapIn">
+    <wsdl:part name="parameters" element="tns:IzpisBlokiranihRačunov" />
+  </wsdl:message>
+  <wsdl:message name="IzpisBlokiranihRačunovSoapOut">
+    <wsdl:part name="parameters" element="tns:IzpisBlokiranihRačunovResponse" />
+  </wsdl:message>
+  <wsdl:message name="NajvišjaTransakcijaSoapIn">
+    <wsdl:part name="parameters" element="tns:NajvišjaTransakcija" />
+  </wsdl:message>
+  <wsdl:message name="NajvišjaTransakcijaSoapOut">
+    <wsdl:part name="parameters" element="tns:NajvišjaTransakcijaResponse" />
+  </wsdl:message>
+  <wsdl:message name="povprecnaStarostKomitentovSoapIn">
+    <wsdl:part name="parameters" element="tns:povprecnaStarostKomitentov" />
+  </wsdl:message>
+  <wsdl:message name="povprecnaStarostKomitentovSoapOut">
+    <wsdl:part name="parameters" element="tns:povprecnaStarostKomitentovResponse" />
+  </wsdl:message>
+  <wsdl:message name="RačunPridobiSoapIn">
+    <wsdl:part name="parameters" element="tns:RačunPridobi" />
+  </wsdl:message>
+  <wsdl:message name="RačunPridobiSoapOut">
+    <wsdl:part name="parameters" element="tns:RačunPridobiResponse" />
+  </wsdl:message>
+  <wsdl:message name="KomitentShraniSoapIn">
+    <wsdl:part name="parameters" element="tns:KomitentShrani" />
+  </wsdl:message>
+  <wsdl:message name="KomitentShraniSoapOut">
+    <wsdl:part name="parameters" element="tns:KomitentShraniResponse" />
+  </wsdl:message>
+  <wsdl:message name="KomitentBrišiSoapIn">
+    <wsdl:part name="parameters" element="tns:KomitentBriši" />
+  </wsdl:message>
+  <wsdl:message name="KomitentBrišiSoapOut">
+    <wsdl:part name="parameters" element="tns:KomitentBrišiResponse" />
+  </wsdl:message>
+  <wsdl:message name="KomitentAžurirajSoapIn">
+    <wsdl:part name="parameters" element="tns:KomitentAžuriraj" />
+  </wsdl:message>
+  <wsdl:message name="KomitentAžurirajSoapOut">
+    <wsdl:part name="parameters" element="tns:KomitentAžurirajResponse" />
+  </wsdl:message>
+  <wsdl:message name="KomitentPridobiSoapIn">
+    <wsdl:part name="parameters" element="tns:KomitentPridobi" />
+  </wsdl:message>
+  <wsdl:message name="KomitentPridobiSoapOut">
+    <wsdl:part name="parameters" element="tns:KomitentPridobiResponse" />
+  </wsdl:message>
+  <wsdl:message name="RačunShraniSoapIn">
+    <wsdl:part name="parameters" element="tns:RačunShrani" />
+  </wsdl:message>
+  <wsdl:message name="RačunShraniSoapOut">
+    <wsdl:part name="parameters" element="tns:RačunShraniResponse" />
+  </wsdl:message>
+  <wsdl:message name="RačunBrišiSoapIn">
+    <wsdl:part name="parameters" element="tns:RačunBriši" />
+  </wsdl:message>
+  <wsdl:message name="RačunBrišiSoapOut">
+    <wsdl:part name="parameters" element="tns:RačunBrišiResponse" />
+  </wsdl:message>
+  <wsdl:message name="RačunAžurirajSoapIn">
+    <wsdl:part name="parameters" element="tns:RačunAžuriraj" />
+  </wsdl:message>
+  <wsdl:message name="RačunAžurirajSoapOut">
+    <wsdl:part name="parameters" element="tns:RačunAžurirajResponse" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaShraniSoapIn">
+    <wsdl:part name="parameters" element="tns:TransakcijaShrani" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaShraniSoapOut">
+    <wsdl:part name="parameters" element="tns:TransakcijaShraniResponse" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaBrišiSoapIn">
+    <wsdl:part name="parameters" element="tns:TransakcijaBriši" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaBrišiSoapOut">
+    <wsdl:part name="parameters" element="tns:TransakcijaBrišiResponse" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaAžurirajSoapIn">
+    <wsdl:part name="parameters" element="tns:TransakcijaAžuriraj" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaAžurirajSoapOut">
+    <wsdl:part name="parameters" element="tns:TransakcijaAžurirajResponse" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaPridobiSoapIn">
+    <wsdl:part name="parameters" element="tns:TransakcijaPridobi" />
+  </wsdl:message>
+  <wsdl:message name="TransakcijaPridobiSoapOut">
+    <wsdl:part name="parameters" element="tns:TransakcijaPridobiResponse" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunShraniSoapIn">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunShrani" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunShraniSoapOut">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunShraniResponse" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunBrišiSoapIn">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunBriši" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunBrišiSoapOut">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunBrišiResponse" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunAžurirajSoapIn">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunAžuriraj" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunAžurirajSoapOut">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunAžurirajResponse" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunPridobiSoapIn">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunPridobi" />
+  </wsdl:message>
+  <wsdl:message name="UporabniškiRačunPridobiSoapOut">
+    <wsdl:part name="parameters" element="tns:UporabniškiRačunPridobiResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceMojSoap">
+    <wsdl:operation name="prijava">
+      <wsdl:input message="tns:prijavaSoapIn" />
+      <wsdl:output message="tns:prijavaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SeznamKomitentov">
+      <wsdl:input message="tns:SeznamKomitentovSoapIn" />
+      <wsdl:output message="tns:SeznamKomitentovSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniTransakcije">
+      <wsdl:input message="tns:vrniTransakcijeSoapIn" />
+      <wsdl:output message="tns:vrniTransakcijeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="vrniKomitenteZTransakcijo">
+      <wsdl:input message="tns:vrniKomitenteZTransakcijoSoapIn" />
+      <wsdl:output message="tns:vrniKomitenteZTransakcijoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="transakcijeKomitenta">
+      <wsdl:input message="tns:transakcijeKomitentaSoapIn" />
+      <wsdl:output message="tns:transakcijeKomitentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="komitent">
+      <wsdl:input message="tns:komitentSoapIn" />
+      <wsdl:output message="tns:komitentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IzpisBlokiranihRačunov">
+      <wsdl:input message="tns:IzpisBlokiranihRačunovSoapIn" />
+      <wsdl:output message="tns:IzpisBlokiranihRačunovSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="NajvišjaTransakcija">
+      <wsdl:input message="tns:NajvišjaTransakcijaSoapIn" />
+      <wsdl:output message="tns:NajvišjaTransakcijaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="povprecnaStarostKomitentov">
+      <wsdl:input message="tns:povprecnaStarostKomitentovSoapIn" />
+      <wsdl:output message="tns:povprecnaStarostKomitentovSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RačunPridobi">
+      <wsdl:input message="tns:RačunPridobiSoapIn" />
+      <wsdl:output message="tns:RačunPridobiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="KomitentShrani">
+      <wsdl:input message="tns:KomitentShraniSoapIn" />
+      <wsdl:output message="tns:KomitentShraniSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="KomitentBriši">
+      <wsdl:input message="tns:KomitentBrišiSoapIn" />
+      <wsdl:output message="tns:KomitentBrišiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="KomitentAžuriraj">
+      <wsdl:input message="tns:KomitentAžurirajSoapIn" />
+      <wsdl:output message="tns:KomitentAžurirajSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="KomitentPridobi">
+      <wsdl:input message="tns:KomitentPridobiSoapIn" />
+      <wsdl:output message="tns:KomitentPridobiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RačunShrani">
+      <wsdl:input message="tns:RačunShraniSoapIn" />
+      <wsdl:output message="tns:RačunShraniSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RačunBriši">
+      <wsdl:input message="tns:RačunBrišiSoapIn" />
+      <wsdl:output message="tns:RačunBrišiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RačunAžuriraj">
+      <wsdl:input message="tns:RačunAžurirajSoapIn" />
+      <wsdl:output message="tns:RačunAžurirajSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaShrani">
+      <wsdl:input message="tns:TransakcijaShraniSoapIn" />
+      <wsdl:output message="tns:TransakcijaShraniSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaBriši">
+      <wsdl:input message="tns:TransakcijaBrišiSoapIn" />
+      <wsdl:output message="tns:TransakcijaBrišiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaAžuriraj">
+      <wsdl:input message="tns:TransakcijaAžurirajSoapIn" />
+      <wsdl:output message="tns:TransakcijaAžurirajSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaPridobi">
+      <wsdl:input message="tns:TransakcijaPridobiSoapIn" />
+      <wsdl:output message="tns:TransakcijaPridobiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunShrani">
+      <wsdl:input message="tns:UporabniškiRačunShraniSoapIn" />
+      <wsdl:output message="tns:UporabniškiRačunShraniSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunBriši">
+      <wsdl:input message="tns:UporabniškiRačunBrišiSoapIn" />
+      <wsdl:output message="tns:UporabniškiRačunBrišiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunAžuriraj">
+      <wsdl:input message="tns:UporabniškiRačunAžurirajSoapIn" />
+      <wsdl:output message="tns:UporabniškiRačunAžurirajSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunPridobi">
+      <wsdl:input message="tns:UporabniškiRačunPridobiSoapIn" />
+      <wsdl:output message="tns:UporabniškiRačunPridobiSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceMojSoap" type="tns:WebServiceMojSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="prijava">
+      <soap:operation soapAction="http://tempuri.org/prijava" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SeznamKomitentov">
+      <soap:operation soapAction="http://tempuri.org/SeznamKomitentov" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniTransakcije">
+      <soap:operation soapAction="http://tempuri.org/vrniTransakcije" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniKomitenteZTransakcijo">
+      <soap:operation soapAction="http://tempuri.org/vrniKomitenteZTransakcijo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="transakcijeKomitenta">
+      <soap:operation soapAction="http://tempuri.org/transakcijeKomitenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="komitent">
+      <soap:operation soapAction="http://tempuri.org/komitent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IzpisBlokiranihRačunov">
+      <soap:operation soapAction="http://tempuri.org/IzpisBlokiranihRačunov" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NajvišjaTransakcija">
+      <soap:operation soapAction="http://tempuri.org/NajvišjaTransakcija" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="povprecnaStarostKomitentov">
+      <soap:operation soapAction="http://tempuri.org/povprecnaStarostKomitentov" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunPridobi">
+      <soap:operation soapAction="http://tempuri.org/RačunPridobi" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentShrani">
+      <soap:operation soapAction="http://tempuri.org/KomitentShrani" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentBriši">
+      <soap:operation soapAction="http://tempuri.org/KomitentBriši" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentAžuriraj">
+      <soap:operation soapAction="http://tempuri.org/KomitentAžuriraj" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentPridobi">
+      <soap:operation soapAction="http://tempuri.org/KomitentPridobi" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunShrani">
+      <soap:operation soapAction="http://tempuri.org/RačunShrani" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunBriši">
+      <soap:operation soapAction="http://tempuri.org/RačunBriši" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunAžuriraj">
+      <soap:operation soapAction="http://tempuri.org/RačunAžuriraj" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaShrani">
+      <soap:operation soapAction="http://tempuri.org/TransakcijaShrani" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaBriši">
+      <soap:operation soapAction="http://tempuri.org/TransakcijaBriši" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaAžuriraj">
+      <soap:operation soapAction="http://tempuri.org/TransakcijaAžuriraj" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaPridobi">
+      <soap:operation soapAction="http://tempuri.org/TransakcijaPridobi" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunShrani">
+      <soap:operation soapAction="http://tempuri.org/UporabniškiRačunShrani" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunBriši">
+      <soap:operation soapAction="http://tempuri.org/UporabniškiRačunBriši" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunAžuriraj">
+      <soap:operation soapAction="http://tempuri.org/UporabniškiRačunAžuriraj" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunPridobi">
+      <soap:operation soapAction="http://tempuri.org/UporabniškiRačunPridobi" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServiceMojSoap12" type="tns:WebServiceMojSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="prijava">
+      <soap12:operation soapAction="http://tempuri.org/prijava" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SeznamKomitentov">
+      <soap12:operation soapAction="http://tempuri.org/SeznamKomitentov" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniTransakcije">
+      <soap12:operation soapAction="http://tempuri.org/vrniTransakcije" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="vrniKomitenteZTransakcijo">
+      <soap12:operation soapAction="http://tempuri.org/vrniKomitenteZTransakcijo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="transakcijeKomitenta">
+      <soap12:operation soapAction="http://tempuri.org/transakcijeKomitenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="komitent">
+      <soap12:operation soapAction="http://tempuri.org/komitent" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IzpisBlokiranihRačunov">
+      <soap12:operation soapAction="http://tempuri.org/IzpisBlokiranihRačunov" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NajvišjaTransakcija">
+      <soap12:operation soapAction="http://tempuri.org/NajvišjaTransakcija" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="povprecnaStarostKomitentov">
+      <soap12:operation soapAction="http://tempuri.org/povprecnaStarostKomitentov" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunPridobi">
+      <soap12:operation soapAction="http://tempuri.org/RačunPridobi" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentShrani">
+      <soap12:operation soapAction="http://tempuri.org/KomitentShrani" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentBriši">
+      <soap12:operation soapAction="http://tempuri.org/KomitentBriši" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentAžuriraj">
+      <soap12:operation soapAction="http://tempuri.org/KomitentAžuriraj" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="KomitentPridobi">
+      <soap12:operation soapAction="http://tempuri.org/KomitentPridobi" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunShrani">
+      <soap12:operation soapAction="http://tempuri.org/RačunShrani" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunBriši">
+      <soap12:operation soapAction="http://tempuri.org/RačunBriši" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RačunAžuriraj">
+      <soap12:operation soapAction="http://tempuri.org/RačunAžuriraj" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaShrani">
+      <soap12:operation soapAction="http://tempuri.org/TransakcijaShrani" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaBriši">
+      <soap12:operation soapAction="http://tempuri.org/TransakcijaBriši" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaAžuriraj">
+      <soap12:operation soapAction="http://tempuri.org/TransakcijaAžuriraj" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TransakcijaPridobi">
+      <soap12:operation soapAction="http://tempuri.org/TransakcijaPridobi" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunShrani">
+      <soap12:operation soapAction="http://tempuri.org/UporabniškiRačunShrani" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunBriši">
+      <soap12:operation soapAction="http://tempuri.org/UporabniškiRačunBriši" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunAžuriraj">
+      <soap12:operation soapAction="http://tempuri.org/UporabniškiRačunAžuriraj" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UporabniškiRačunPridobi">
+      <soap12:operation soapAction="http://tempuri.org/UporabniškiRačunPridobi" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServiceMoj">
+    <wsdl:port name="WebServiceMojSoap" binding="tns:WebServiceMojSoap">
+      <soap:address location="http://localhost:12419/WebServiceMoj.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServiceMojSoap12" binding="tns:WebServiceMojSoap12">
+      <soap12:address location="http://localhost:12419/WebServiceMoj.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

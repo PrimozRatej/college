@@ -1,0 +1,14 @@
+﻿<!ELEMENT dobavitelji (dobavitelj+)>
+<!ELEMENT dobavitelj (naziv,ime,priimek,naslov)>
+<!ELEMENT naziv (#PCDATA)>
+<!ELEMENT ime (#PCDATA)>
+<!ELEMENT priimek (#PCDATA)>
+<!ELEMENT naslov (ulica,stevilka,posta)>
+<!ELEMENT ulica (#PCDATA)>
+<!ELEMENT stevilka (#PCDATA)>
+<!ELEMENT posta (kraj,p_stevilka)>
+<!ELEMENT kraj (#PCDATA)>
+<!ELEMENT p_stevilka (#PCDATA)>
+
+
+<!ATTLIST dobavitelj id ID #REQUIRED>

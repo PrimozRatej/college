@@ -1,0 +1,9 @@
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\bin\Debug\netcoreapp3.1\Pot_Lib.deps.json
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\bin\Debug\netcoreapp3.1\Pot_Lib.dll
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\bin\Debug\netcoreapp3.1\Pot_Lib.pdb
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\obj\Debug\netcoreapp3.1\Pot_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\obj\Debug\netcoreapp3.1\Pot_Lib.AssemblyInfoInputs.cache
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\obj\Debug\netcoreapp3.1\Pot_Lib.AssemblyInfo.cs
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\obj\Debug\netcoreapp3.1\Pot_Lib.csproj.CoreCompileInputs.cache
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\obj\Debug\netcoreapp3.1\Pot_Lib.dll
+C:\Users\primo\source\repos\Vaje_NP\SeznamPotnikovLib\obj\Debug\netcoreapp3.1\Pot_Lib.pdb

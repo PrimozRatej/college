@@ -1,0 +1,31 @@
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\bin\Debug\PomilostitveniPostopek.exe.config
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\bin\Debug\PomilostitveniPostopek.exe
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\bin\Debug\PomilostitveniPostopek.pdb
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\MainWindow.g.cs
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\App.g.cs
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek_MarkupCompile.cache
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek_MarkupCompile.lref
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\MainWindow.baml
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.g.resources
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.Properties.Resources.resources
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.csproj.GenerateResource.Cache
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.exe
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.pdb
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.Prijava.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\bin\Debug\PomilostitveniPostopek.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\bin\Debug\PomilostitveniPostopek.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\bin\Debug\PomilostitveniPostopek.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\MainWindow.g.cs
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\App.g.cs
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek_MarkupCompile.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek_MarkupCompile.lref
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\MainWindow.baml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.g.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.Prijava.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.Properties.Resources.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.csproj.GenerateResource.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\PomilostitveniPostopek\obj\Debug\PomilostitveniPostopek.pdb

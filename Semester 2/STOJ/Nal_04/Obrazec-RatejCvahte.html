@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vnos novega članka</title>
+    </head>
+        <body>
+           <h1>Vnos novega članka</h1>
+           <form name="input" action="mailto:primozratej@gmail.com" method="post" enctype="text/plain">
+            <fieldset >
+                <legend>Obrazec za vnos</legend>
+                <p>
+                    <label for="Naslov">Vnesi naslov*:</label><input size="50"
+                                         type="text"
+                                         title="Samo male in velike črke ter največ 10 znakov"
+                                         pattern="[A-Za-z]+"
+                                         maxlength="10"
+                                         placeholder="Privzet naslov..."
+                                         id="Naslov"
+                                         required>
+                </p>
+                <p>
+                    <label for="textarea">Vsebina članka*:</label><br>
+                    <textarea id="textarea" name="message" rows="10" cols="66" required></textarea><br>
+                </p>
+                <p><label for="izberitemo">Izberi tip*:</label>
+                    <select id="izberitemo"  required>
+                        <option selected disabled value="" label="--Izberi tip--"></option>
+                        <option value="novice" label="Novice"></option>
+                        <option value="črnaKronika" label="Črna kronika"></option>
+                        <option value="šport" label="Šport"></option>
+                    </select>
+                </p>
+                <p>
+                   <label for="myDate"> Izberi datum objave:</label> <input type="date" id="myDate" max="2016-04-01" min ="2015-01-01">
+                </p>
+                <p>
+
+                </p>
+                <fieldset>
+                    <legend>Oblika strani</legend>
+                    <p><label for="barva">Barva pisave</label> <input type="color" id="barva"></p>
+                    <p><label for="številoStolpcev">Število stolpcev:</label> <input type="range" max="4" min="1" id="številoStolpcev"></p>
+                    <p>Izpostavi na naslovnici:
+                        <label for="Da">Da</label><input type="radio" name="DaNe" value="Da" id="Da" >
+                        <label for="Ne">Ne</label><input type="radio" name="DaNe" value="Ne" id="Ne">
+                    </p>
+                    <label for="dataList">Mesto dogodka:</label><input list="browsers" id="dataList">
+
+                    <datalist id="browsers">
+                        <option value="Ljubljana" label="Ljubljana">
+                        <option value="Ljutomer" label="Ljutomer">
+                        <option value="Maribor" label="Maribor">
+                        <option value="Murska Sobota" label="MurskaSobota">
+                        <option value="Celje" label="Celje">
+                    </datalist>
+                    <p>
+                        Dovoli:<br>
+                        <input type="checkbox" name="Komentiranje" value="Komentiranje" id="Komentiranje"><label for="Komentiranje">Komentiranje</label><br>
+                        <input type="checkbox" name="Ocenjevanje" value="Ocenjevanje" id="Ocenjevanje"><label for="Ocenjevanje">Ocenjevanje</label><br>
+                        <input type="checkbox" name="BrisanjeKomentarjev" value="BrisanjeKomentarjev" id="BrisanjeKomentarjev"><label for="BrisanjeKomentarjev">Brisanje komentarjev</label><br>
+                    </p>
+                    <p>
+                        <label for="štKomentarje">Število komentarjev na strani:</label> <input type="number" id="štKomentarje" min="0" max="30" step="5">
+                    </p>
+                </fieldset>
+
+                <p><label for="urlČlanka">Želen url članka*:</label> <input type="text" id="urlČlanka" pattern="https?://.+" required> </p>
+                <p><label for="email">Kontaktna oseba:</label> <input type="email" id="email"> </p>
+                <p><input type="submit" value="Pošlji"><label> </label><input type="reset" value="Ponastavi"></p>
+            </fieldset>
+        </form>
+        </body>
+</html>

@@ -1,0 +1,4 @@
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\AritmetičnaSredinaInStandardniOdklonŠtevil.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\AritmetičnaSredinaInStandardniOdklonŠtevil.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\6.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\6.pdb

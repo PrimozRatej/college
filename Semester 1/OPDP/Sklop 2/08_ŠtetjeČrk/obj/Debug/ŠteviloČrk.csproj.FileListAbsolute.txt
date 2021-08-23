@@ -1,0 +1,7 @@
+C:\Users\primo\Documents\college\OPDP\Sklop 2\08_ŠtetjeČrk\bin\Debug\stevilocrk.exe.config
+C:\Users\primo\Documents\college\OPDP\Sklop 2\08_ŠtetjeČrk\bin\Debug\stevilocrk.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 2\08_ŠtetjeČrk\bin\Debug\stevilocrk.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 2\08_ŠtetjeČrk\obj\Debug\ŠteviloČrk.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\08_ŠtetjeČrk\obj\Debug\ŠteviloČrk.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\08_ŠtetjeČrk\obj\Debug\stevilocrk.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 2\08_ŠtetjeČrk\obj\Debug\stevilocrk.pdb

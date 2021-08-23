@@ -1,0 +1,6 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\8. - naloga - Kvadratna enačba (6)\Naloga8\Naloga8\bin\Debug\Naloga8.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\8. - naloga - Kvadratna enačba (6)\Naloga8\Naloga8\bin\Debug\Naloga8.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\8. - naloga - Kvadratna enačba (6)\Naloga8\Naloga8\bin\Debug\Naloga8.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\8. - naloga - Kvadratna enačba (6)\Naloga8\Naloga8\obj\Debug\Naloga8.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\8. - naloga - Kvadratna enačba (6)\Naloga8\Naloga8\obj\Debug\Naloga8.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\8. - naloga - Kvadratna enačba (6)\Naloga8\Naloga8\obj\Debug\Naloga8.pdb

@@ -1,0 +1,23 @@
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\ApplicationInsights.config
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\UrnikGooG.dll.config
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\UrnikGooG.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\UrnikGooG.pdb
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.Web.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.Web.xml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\obj\Debug\UrnikGooG.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\obj\Debug\UrnikGooG.pdb
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG\obj\Debug\UrnikGooG.csprojResolveAssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG\obj\Debug\UrnikGooG.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG\obj\Debug\UrnikGooG.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG\obj\Debug\UrnikGooG.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG\obj\Debug\UrnikGooG.pdb

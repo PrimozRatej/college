@@ -1,0 +1,95 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta name="viewport" content="width=device-width" />
+   
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+    <script src="~/Scripts/mojaskripta.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>  
+
+
+
+   
+
+  
+</head>
+<body>
+    
+    <div class="navbar navbar-inverse navbar-static-top">
+            
+        <div class="container">
+
+            @Html.ActionLink("Igre", "Index", "Igras", null, new{ @class = "navbar-brand" })
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+            
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+
+
+
+            <div class="collapse navbar-collapse navHeaderCollapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="gumb">@Html.ActionLink("Igre","Index", "Igras")</li>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <li class="gumb">@Html.ActionLink("Uporabniki", "Index", "Uporabniks")</li>
+                    }
+              
+                    <li class="gumb">
+                    
+                    
+                    @if(User.Identity.IsAuthenticated)
+                    {        
+                    @Html.ActionLink("Odjava", "Logout", "Account")
+                    }
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                    @Html.ActionLink("Prijava", "Login", "Account")
+                    }
+                    </li>
+                    
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="jumbotron">
+            <center>
+                <h1>Pozdravljeni v storitvi!</h1>
+            </center>
+        </div>
+        @RenderBody()
+    </div>
+
+  
+   
+
+    <div class="navbar navbar-default navbar-fixed-bottom">
+
+        <div class="container">
+
+            <p class="navbar-text">Stran naredil Rene Vučko, trenutni čas:@DateTime.Now.ToString("HH:mm - dddd, d.M.yyyy", new System.Globalization.CultureInfo("en-US"))</p>
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>

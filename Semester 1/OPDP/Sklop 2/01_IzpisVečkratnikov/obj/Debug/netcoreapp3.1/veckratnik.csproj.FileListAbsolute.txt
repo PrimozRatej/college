@@ -1,0 +1,14 @@
+C:\Users\primo\source\repos\veckratnik\veckratnik\bin\Debug\netcoreapp3.1\veckratnik.exe
+C:\Users\primo\source\repos\veckratnik\veckratnik\bin\Debug\netcoreapp3.1\veckratnik.deps.json
+C:\Users\primo\source\repos\veckratnik\veckratnik\bin\Debug\netcoreapp3.1\veckratnik.runtimeconfig.json
+C:\Users\primo\source\repos\veckratnik\veckratnik\bin\Debug\netcoreapp3.1\veckratnik.runtimeconfig.dev.json
+C:\Users\primo\source\repos\veckratnik\veckratnik\bin\Debug\netcoreapp3.1\veckratnik.dll
+C:\Users\primo\source\repos\veckratnik\veckratnik\bin\Debug\netcoreapp3.1\veckratnik.pdb
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.csproj.AssemblyReference.cache
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.AssemblyInfoInputs.cache
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.AssemblyInfo.cs
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.csproj.CoreCompileInputs.cache
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.dll
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.pdb
+C:\Users\primo\source\repos\veckratnik\veckratnik\obj\Debug\netcoreapp3.1\veckratnik.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+﻿@model dsr_vaja1.Models.Igra.Igra
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/MasterStran.cshtml";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.EditorForModel("podatki_o_igri")
+    <button type="submit" id="sbmt" class="btn btn-default">Naprej</button>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+

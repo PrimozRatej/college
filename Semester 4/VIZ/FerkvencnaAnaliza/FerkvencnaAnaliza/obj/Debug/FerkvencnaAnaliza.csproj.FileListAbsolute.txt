@@ -1,0 +1,21 @@
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\bin\Debug\FerkvencnaAnaliza.exe.config
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\bin\Debug\FerkvencnaAnaliza.exe
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\bin\Debug\FerkvencnaAnaliza.pdb
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.Form1.resources
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.Properties.Resources.resources
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.csproj.GenerateResource.Cache
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.exe
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.pdb
+C:\Users\Primoz\Google Drive\College Life\2. letnik\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.grafForm.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\bin\Debug\FerkvencnaAnaliza.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\bin\Debug\FerkvencnaAnaliza.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\bin\Debug\FerkvencnaAnaliza.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.Form1.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.grafForm.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.Properties.Resources.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.csproj.GenerateResource.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Varnost in zaščita\FerkvencnaAnaliza\FerkvencnaAnaliza\obj\Debug\FerkvencnaAnaliza.pdb

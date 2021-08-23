@@ -1,0 +1,31 @@
+﻿<Window x:Class="PredlogaZaPreverjanjeV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PredlogaZaPreverjanjeV2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="439.044" Width="654.963">
+    <Grid>
+        <DataGrid x:Name="knjigeGw" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Height="144" Width="391"/>
+        <Label Content="Knjige" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="claniGw" HorizontalAlignment="Left" Margin="10,217,0,0" VerticalAlignment="Top" Height="168" Width="392" SelectionChanged="claniGw_SelectionChanged"/>
+        <Label Content="Člani" HorizontalAlignment="Left" Margin="10,191,0,0" VerticalAlignment="Top"/>
+        <Button Content="Odstrani" HorizontalAlignment="Left" Margin="536,158,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox x:Name="imeTb" HorizontalAlignment="Left" Margin="491,217,0,166" TextWrapping="Wrap" Width="120"/>
+        <TextBox x:Name="priimekTb" HorizontalAlignment="Left" Height="23" Margin="491,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Dodaj" HorizontalAlignment="Left" Margin="536,278,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+        <Button Content="Uredi" HorizontalAlignment="Left" Margin="536,303,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_4"/>
+        <Button Content="Odstrani" HorizontalAlignment="Left" Margin="536,328,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Label Content="Ime:" HorizontalAlignment="Left" Margin="407,219,0,0" VerticalAlignment="Top"/>
+        <Label Content="Priimek:" HorizontalAlignment="Left" Margin="407,250,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="naslovTb" HorizontalAlignment="Left" Margin="491,41,0,342" TextWrapping="Wrap" Width="120"/>
+        <TextBox x:Name="avtorTb" HorizontalAlignment="Left" Height="23" Margin="491,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="stStraniTb" HorizontalAlignment="Left" Height="23" Margin="491,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Naslov:" HorizontalAlignment="Left" Margin="412,43,0,0" VerticalAlignment="Top"/>
+        <Label Content="Avtor:" HorizontalAlignment="Left" Margin="412,74,0,0" VerticalAlignment="Top"/>
+        <Label Content="Št. strani:" HorizontalAlignment="Left" Margin="412,105,0,0" VerticalAlignment="Top"/>
+        <Button Content="Dodaj" HorizontalAlignment="Left" Margin="536,133,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

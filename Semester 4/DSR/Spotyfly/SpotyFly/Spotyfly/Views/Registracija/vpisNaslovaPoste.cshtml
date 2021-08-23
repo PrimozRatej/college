@@ -1,0 +1,57 @@
+﻿@model Spotyfly.Models.Uporabnik
+@{
+    ViewBag.Title = "vpisNaslovaPoste";
+}
+
+<h2>Vpis naslova pošte</h2>
+
+@using (Html.BeginForm())
+{
+    if (ViewBag.opozorilo != null)
+    {
+        <p><b>@ViewBag.opozorilo</b></p><br />
+    }
+    <table>
+        <tr>
+            <td>Naslov:</td>
+            <td>@Html.TextBoxFor(m => m.naslov, new { @maxLength = "30" })</td>
+        </tr>
+        <tr>
+            <td>Poštna številka:</td>
+            <td>@Html.TextBoxFor(m => m.poštnaŠtevilka, new { @maxLength = "20" })</td>
+        </tr>
+        <tr>
+            <td>Kraj</td>
+            <td>@Html.TextBoxFor(m => m.pošta, new { @maxLength = "20" })</td>
+        </tr>
+        <tr>
+            @{
+                List<SelectListItem> listItems = new List<SelectListItem>();
+                listItems.Add(new SelectListItem
+                {
+                    Text = "Slovenia",
+                    Value = "SLO"
+                });
+                listItems.Add(new SelectListItem
+                {
+                    Text = "Italy",
+                    Value = "ITA",
+                    Selected = true
+                });
+                listItems.Add(new SelectListItem
+                {
+                    Text = "Germany",
+                    Value = "GER"
+                });
+            }
+
+
+            <td>Država:</td>
+
+            <td>@Html.DropDownList("tvojaMAMA", listItems)</td>
+        </tr>
+    </table>
+    <br />
+    <input type="submit" name="Naprej" />
+}
+

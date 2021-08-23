@@ -1,0 +1,113 @@
+﻿@model dsr_vaja1.Models.Uporabnik.Uporabnik
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/MasterStran.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Uporabnik</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.priimek)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.priimek)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.rojstni_datum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.rojstni_datum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kraji)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kraji)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.emso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.emso)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Starost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Starost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.naslov)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.naslov)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.posta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.posta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.drzava)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.drzava)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.postna_stevilka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.postna_stevilka)
+        </dd>
+
+
+
+    </dl>
+</div>
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) 
+    }
+   
+    @Html.ActionLink("Back to List", "Index")
+</p>

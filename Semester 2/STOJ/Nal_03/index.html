@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script data-require="jquery@*" data-semver="2.2.0" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0-rc.2/jquery-ui.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0-rc.2/jquery-ui.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="funkcije.js"></script>
+  <script src="dom.js"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>JavaScript - DOM</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Seznam predsedniških kandidatov!</h1>
+
+    <form class="form-inline" action="#" id="forma_isci">
+      <div class="form-group">
+        <input type="text" class="form-control" id="iskalniNiz" placeholder="Iskalni niz" />
+      </div>
+      <button type="submit" class="btn btn-info">Išči</button>
+      <a href="#" class="btn btn-default" id="gumbVnosKandidatov">Vnesi kandidata</a>
+
+    </form>
+
+    <div id="vnosKandidatov">
+      <h3>Vnos novih kandidatov</h3>
+      <form action="#" id="forma" class="form-group">
+        <input type="text" id="id" value="" style="display: none;" />
+        <table class="table">
+          <tbody>
+            <tr>
+              <td>Ime:</td>
+              <td>
+                <input type="text" id="ime" placeholder="Ime kandidata" class="form-control" />
+              </td>
+            </tr>
+            <tr>
+              <td>Priimek:</td>
+              <td>
+                <input type="text" id="priimek" placeholder="Priimek kandidata" class="form-control" />
+              </td>
+            </tr>
+            <tr>
+              <td>Stranka:</td>
+              <td>
+                <select id="stranka" class="form-control">
+                  <option>Demokratska</option>
+                  <option>Republikanska</option>
+                  <option>Neodvisna</option>
+                </select>
+              </td>
+            </tr>
+            <tr>
+              <td>Št. delegatov:</td>
+              <td>
+                <span id="stDelegatovSlider" class="delegatiSlider"></span>
+                <span id="stDelegatovVrednost"></span>
+                <!-- <input type="number" id="stDelegatov" min="0" max="3000" class="form-control" /> -->
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <input type="submit" value="Dodaj" class="btn btn-info" />
+              </td>
+              <td>
+                <input type="reset" value="Ponastavi" class="btn btn-info" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </div>
+    <br />
+    <p id="obvestila"></p>
+    <br />
+    <h3>Seznam obstoječih kandidatov</h3>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Ime in priimek</th>
+          <th>Stranka</th>
+          <th>Št. delegatov</th>
+          <th>Možnosti</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <!-- 
+      Namesto seznama je sedaj tabela!
+      <ul id="seznam" class="list"></ul>
+    -->
+    <button class="btn" id="pobrisi">Pobriši seznam</button>
+  </div>
+</body>
+
+</html>

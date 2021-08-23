@@ -1,0 +1,177 @@
+﻿<Window x:Class="UrnikGooG_AdminClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UrnikGooG_AdminClient"
+        mc:Ignorable="d"
+        Title="GooGUrnik-Admin-View" Height="800" Width="1300">
+    <Grid Name="GridMaster">
+        <Grid Name="Grid_Urejanje">
+            <TabControl Name="TabControlMaster" SelectionChanged="TabControlMaster_SelectionChanged">
+
+                <TabItem Name="TabItem_MesečniUrnik" Header="Mesečni urniki">
+                </TabItem>
+                <TabItem Name="TabItem_Zaposleni" Header="Zaposleni">
+                    <Grid Name="Grid_zaposleniControl">
+                        <Grid Margin="0,0,800,0">
+                            <TabControl Name="TabControl_Zaposleni">
+                                <TabItem Name="TabItem_Poizvedbe_Zaposleni" Header="Poizvedbe">
+                                    <Grid Name="Grid_Poizvedbe_Zaposleni" VerticalAlignment="Top" Height="270">
+                                        <Button Name="button_Zaposleni_IzberiVse" Content="Izberi vse" Height="20" Click="button_Zaposleni_IzberiVse_Click" Margin="14,15,371,235"/>
+                                        <TextBox x:Name="textBox_Zaposleni_IščiPoImenu" HorizontalAlignment="Left" Height="23" Margin="139,70,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+                                        <Button x:Name="button_Zaposleni_IščiPoImenu" Content="Išči" HorizontalAlignment="Left" Margin="274,70,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="button_Zaposleni_IščiPoImenu_Click"/>
+                                        <ComboBox x:Name="comboBox_iščiPo" HorizontalAlignment="Left" Margin="4,70,0,0" VerticalAlignment="Top" Width="120"/>
+
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Name="TabItem_Dodaj_Zaposleni" Header="Dodaj">
+                                    <Grid Name="Grid_Dodaj_Zaposleni">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="89*"/>
+                                            <ColumnDefinition Width="391*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label x:Name="label_Ime" Content="Ime" HorizontalAlignment="Left" Margin="59,35,0,0" VerticalAlignment="Top"/>
+                                        <Label x:Name="label_Priimek" Content="Priimek" HorizontalAlignment="Left" Margin="39,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="label_Emšo" Content="Emšo" HorizontalAlignment="Left" Margin="50,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="label_Davčna" Content="Davčna številka" HorizontalAlignment="Left" Margin="-2,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="label_UrnaPostavka" Content="Urna postavka" HorizontalAlignment="Left" Margin="3,155,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <TextBox x:Name="textBox_Ime" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_Priimek" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_Emšo" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_DavčnaŠtevilka" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_UrnaPostavka" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <Button x:Name="button_Dodaj" Grid.ColumnSpan="2" Content="Dodaj" Click="button_Dodaj_Click" HorizontalAlignment="Left" Margin="54,190,0,0" VerticalAlignment="Top" Width="75"/>
+
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Name="TabItem_Osveži_Zaposleni" Header="Osveži">
+                                    <Grid Name="Grid_Osveži_Zaposleni">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="89*"/>
+                                            <ColumnDefinition Width="391*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label x:Name="labelOsveži_Ime" Content="Ime" HorizontalAlignment="Left" Margin="59,35,0,0" VerticalAlignment="Top"/>
+                                        <Label x:Name="labelOsveži_Priimek" Content="Priimek" HorizontalAlignment="Left" Margin="39,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="labelOsveži_Emšo" Content="Emšo" HorizontalAlignment="Left" Margin="50,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="labelOsveži_Davčna" Content="Davčna številka" HorizontalAlignment="Left" Margin="-2,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="labelOsveži_UrnaPostavka" Content="Urna postavka" HorizontalAlignment="Left" Margin="3,155,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <TextBox x:Name="textBoxOsveži_Ime" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_Priimek" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_Emšo" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_DavčnaŠtevilka" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_UrnaPostavka" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <Button x:Name="buttonOsveži_Dodaj" Grid.ColumnSpan="2" Content="Posodobi" Click="buttonOsveži_Dodaj_Click" HorizontalAlignment="Left" Margin="54,190,0,0" VerticalAlignment="Top" Width="75"/>
+                                        <ComboBox x:Name="comboBox_ZaposleniIzberi" Grid.Column="1" HorizontalAlignment="Left" Margin="185,30,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_ZaposleniIzberi_SelectionChanged"/>
+                                        <Label x:Name="labeIzberiZaposlenega" Content="Izberi zaposlenega:" Grid.Column="1" HorizontalAlignment="Left" Margin="185,0,0,0" VerticalAlignment="Top"/>
+
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Name="TabItem_Zbirši_Zaposleni" Header="Zbriši">
+                                    <Grid Name="Grid_Zbriši_Zaposleni">
+                                        <Button x:Name="buttonZaposleni_Zbriši" Content="Izbriši" Click="buttonZaposleni_Zbriši_Click" HorizontalAlignment="Left" Margin="104,30,0,0" VerticalAlignment="Top" Width="75"/>
+                                        <ComboBox x:Name="comboBox_ZaposleniZbriši" Grid.Column="1" HorizontalAlignment="Left" Margin="185,30,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_ZaposleniZbriši_SelectionChanged"/>
+                                        <Label x:Name="label_ZaposleniIzbriši_Info" Content="Zaposleni:" HorizontalAlignment="Left" Margin="8,59,0,0" VerticalAlignment="Top"/>
+                                    </Grid>
+                                </TabItem>
+                            </TabControl>
+                        </Grid>
+                        <Grid Name="Grid_DataGrid_Zaposleni"  HorizontalAlignment="Right">
+                            <DataGrid Name="DataGrid_Zaposleni" Width="780"/>
+                        </Grid>
+                    </Grid>
+                </TabItem>
+                <TabItem Name="TabItem_Dopust" Header="Dopust">
+                    <Grid Name="Grid_DopustiControl">
+                        <Grid Margin="0,0,800,0">
+                            <TabControl Name="TabControl_Dopusti">
+                                <TabItem Name="TabItem_Poizvedbe_Dopusti" Header="Poizvedbe">
+                                    <Grid Name="Grid_Poizvedbe_Dopusti" VerticalAlignment="Top" Height="270">
+                                        <Button Name="button_Dopusti_IzberiVse" Content="Izberi vse" Height="20" Click="button_Zaposleni_IzberiVse_Click" Margin="14,15,371,235"/>
+                                        <Button x:Name="button_Dopusti_IščiPoImenu" Content="Išči" HorizontalAlignment="Left" Margin="134,70,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="button_Dopusti_IščiPoImenu_Click"/>
+                                        <ComboBox x:Name="comboBox_iščiPo_Dopusti" HorizontalAlignment="Left" Margin="4,70,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_iščiPo_Dopusti_SelectionChanged"/>
+
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Name="TabItem_Dodaj_Dopusti" Header="Dodaj">
+                                    <Grid Name="Grid_Dodaj_Dopusti">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="89*"/>
+                                            <ColumnDefinition Width="391*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label x:Name="label_Ime_Dopusti" Content="Ime" HorizontalAlignment="Left" Margin="59,35,0,0" VerticalAlignment="Top"/>
+                                        <Label x:Name="label_Priimek_Dopusti" Content="Priimek" HorizontalAlignment="Left" Margin="39,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="label_Emšo_Dopusti_Dopusti" Content="Emšo" HorizontalAlignment="Left" Margin="50,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="label_Davčna_Dopusti" Content="Davčna številka" HorizontalAlignment="Left" Margin="-2,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="label_UrnaPostavka_Dopusti" Content="Urna postavka" HorizontalAlignment="Left" Margin="3,155,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <TextBox x:Name="textBox_Ime_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_Priimek_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_Emšo_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_DavčnaŠtevilka_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBox_UrnaPostavka_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <Button x:Name="button_Dodaj_Dopusti" Grid.ColumnSpan="2" Content="Dodaj" Click="button_Dodaj_Click" HorizontalAlignment="Left" Margin="54,190,0,0" VerticalAlignment="Top" Width="75"/>
+
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Name="TabItem_Osveži_Dopusti" Header="Osveži">
+                                    <Grid Name="Grid_Osveži_Dopusti">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="89*"/>
+                                            <ColumnDefinition Width="391*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label x:Name="labelOsveži_Ime_Dopusti" Content="Ime" HorizontalAlignment="Left" Margin="59,35,0,0" VerticalAlignment="Top"/>
+                                        <Label x:Name="labelOsveži_Priimek_Dopusti" Content="Priimek" HorizontalAlignment="Left" Margin="39,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="labelOsveži_Emšo_Dopusti" Content="Emšo" HorizontalAlignment="Left" Margin="50,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="labelOsveži_Davčna_Dopusti" Content="Davčna številka" HorizontalAlignment="Left" Margin="-2,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <Label x:Name="labelOsveži_UrnaPostavka_Dopusti" Content="Urna postavka" HorizontalAlignment="Left" Margin="3,155,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,1.346"/>
+                                        <TextBox x:Name="textBoxOsveži_Ime_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_Priimek_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_Emšo_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_DavčnaŠtevilka_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <TextBox x:Name="textBoxOsveži_UrnaPostavka_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                                        <Button x:Name="buttonOsveži_Dodaj_Dopusti" Grid.ColumnSpan="2" Content="Posodobi" Click="buttonOsveži_Dodaj_Click" HorizontalAlignment="Left" Margin="54,190,0,0" VerticalAlignment="Top" Width="75"/>
+                                        <ComboBox x:Name="comboBox_ZaposleniIzberi_Dopusti" Grid.Column="1" HorizontalAlignment="Left" Margin="185,30,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_ZaposleniIzberi_SelectionChanged"/>
+                                        <Label x:Name="labeIzberiZaposlenega_Dopusti" Content="Izberi zaposlenega:" Grid.Column="1" HorizontalAlignment="Left" Margin="185,0,0,0" VerticalAlignment="Top"/>
+
+                                    </Grid>
+                                </TabItem>
+                                <TabItem Name="TabItem_Zbirši_Dopusti" Header="Zbriši">
+                                    <Grid Name="Grid_Zbriši_Dopusti">
+                                        <Button x:Name="buttonDopusti_Zbriši" Content="Izbriši" Click="buttonZaposleni_Zbriši_Click" HorizontalAlignment="Left" Margin="104,30,0,0" VerticalAlignment="Top" Width="75"/>
+                                        <ComboBox x:Name="comboBox_DopustiZbriši" Grid.Column="1" HorizontalAlignment="Left" Margin="185,30,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_ZaposleniZbriši_SelectionChanged"/>
+                                        <Label x:Name="label_DopustiIzbriši_Info" Content="Zaposleni:" HorizontalAlignment="Left" Margin="8,59,0,0" VerticalAlignment="Top"/>
+                                    </Grid>
+                                </TabItem>
+                            </TabControl>
+                        </Grid>
+                        <Grid Name="Grid_DataGrid_Dopust"  HorizontalAlignment="Right">
+                            <DataGrid Name="DataGrid_Dopust" Width="780"/>
+                        </Grid>
+                    </Grid>
+                </TabItem>
+                <TabItem Name="TabItem_Bolniška" Header="Bolniška">
+                    <Grid Name="Grid_DataGrid_Bolniska"  HorizontalAlignment="Right">
+                        <DataGrid Name="DataGrid_Bolniska" Width="780"/>
+                    </Grid>
+                </TabItem>
+                <TabItem Name="TabItem_Izmena" Header="Izmena">
+                    <Grid Name="Grid_DataGrid_Izmena"  HorizontalAlignment="Right">
+                        <DataGrid Name="DataGrid_Izmena" Width="780"/>
+                    </Grid>
+                </TabItem>
+                <TabItem Name="TabItem_Opravilo" Header="Opravilo">
+                    <Grid Name="Grid_DataGrid_Opravilo"  HorizontalAlignment="Right">
+                        <DataGrid Name="DataGrid_Opravilo" Width="780"/>
+                    </Grid>
+                </TabItem>
+                <TabItem Name="TabItem_ProstiDan" Header="Prosti dnevi">
+                    <Grid Name="Grid_DataGrid_ProstiDan"  HorizontalAlignment="Right">
+                        <DataGrid Name="DataGrid_ProstiDan" Width="780"/>
+                    </Grid>
+                </TabItem>
+
+            </TabControl>
+        </Grid>
+
+    </Grid>
+</Window>

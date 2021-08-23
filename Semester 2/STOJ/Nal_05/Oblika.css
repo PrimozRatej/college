@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+    background: #bb1819;
+    color: #FFF;
+    padding: 10px 15px;
+}
+
+.datum{
+    margin: 15px 0;
+}
+
+time{
+    font-style: italic;
+}
+
+a{
+    color: #bb1819;
+}
+a:hover{
+    text-decoration: none;
+}
+
+ul a{
+    text-decoration: none;
+    color: inherit;
+}
+ul a:hover{
+    text-decoration: underline;
+}
+
+#odebeljeno{
+    font-weight: bold;
+}
+
+figure{
+    margin: 0;
+    display: block;
+    margin-bottom: 30px;
+}
+
+aside{
+    margin: 20px 0;
+}
+
+figcaption{
+    font-style: italic;
+}
+
+footer{
+    background: #2f2f2f;
+    padding: 25px;
+    color: #FFF;
+}

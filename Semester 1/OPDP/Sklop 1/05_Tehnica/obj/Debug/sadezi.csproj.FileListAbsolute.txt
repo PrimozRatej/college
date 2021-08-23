@@ -1,0 +1,6 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\5. - naloga - Tehtnica (6)\sadezi\sadezi\bin\Debug\sadezi.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\5. - naloga - Tehtnica (6)\sadezi\sadezi\bin\Debug\sadezi.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\5. - naloga - Tehtnica (6)\sadezi\sadezi\bin\Debug\sadezi.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\5. - naloga - Tehtnica (6)\sadezi\sadezi\obj\Debug\sadezi.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\5. - naloga - Tehtnica (6)\sadezi\sadezi\obj\Debug\sadezi.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\5. - naloga - Tehtnica (6)\sadezi\sadezi\obj\Debug\sadezi.pdb

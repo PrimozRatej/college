@@ -1,0 +1,4 @@
+﻿Pregled podatkov o vozilih
+-ZačetnoOkno
+-VoziloControl
+-Vozilo ima []Opravilo

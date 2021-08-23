@@ -1,0 +1,35 @@
+Zaèetek->
+*Prošnja vsi dokumenti ki nastajajo v postopku
+------------------------------
+Sodišèe (Prejme prošnjo)
+if(prošnja zavrnjena)
+  * pošlje ministerstvu (Prošnja zavrnjena) -> zadeva zakljuèena
+else 
+  * pošlje Tožilcu (POTRJENO)
+  * pošlje ministerstvu (POTRJENO) 
+    
+------------------------------
+Ministerstvo (prejme prošnjo)
+if(prošnja zavrnjena)
+  * shrani
+else
+  * pošlje odloèitev
+  * shrani
+------------------------------
+Tožilec (prejme prošnjo)
+  * sestavi mnenje (pošlje mnenje sodišèu)
+------------------------------
+
+Stanja prošnje:
+null = prošnja še ni v postopku
+true = prošnja je v postopku
+false = prošnja se shrani ministerstvo jo zakljuèi
+zadevaZakljuèena = true/false
+Prošnja ustrezna = true/false/null
+if(prošnjaUstrezna())
+   ProšnjaUstrezna = true;
+   Tožilec.PodaMnenje(prošnja);
+   prošnja.Shrani();
+else
+   Prošnja.Shrani();
+   

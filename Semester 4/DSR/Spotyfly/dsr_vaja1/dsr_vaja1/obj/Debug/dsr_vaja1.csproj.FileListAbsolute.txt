@@ -1,0 +1,394 @@
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_1\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\rene.vucko\Desktop\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja_1\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_2\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja 3\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\Vaja_4\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\EntityFramework.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\EntityFramework.SqlServer.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\EntityFramework.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\EntityFramework.SqlServer.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_5\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.rsp
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\csi.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\csi.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\csi.rsp
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.AppContext.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Console.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.rsp
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\EntityFramework.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\EntityFramework.SqlServer.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\WebMatrix.Data.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\WebMatrix.WebData.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\EntityFramework.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\EntityFramework.SqlServer.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\WebMatrix.Data.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\WebMatrix.WebData.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csprojResolveAssemblyReference.cache
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb
+C:\Users\Ballout\Desktop\2 semester\DSR\vaja_6\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Helpers.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\csc.rsp
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\csi.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\csi.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\csi.rsp
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\desktop.ini
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.AppContext.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Console.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.Compression.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Claims.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.ValueTuple.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\vbc.rsp
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\dsr_vaja1.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\EntityFramework.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\EntityFramework.SqlServer.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Helpers.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\WebMatrix.Data.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\WebMatrix.WebData.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\EntityFramework.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\EntityFramework.SqlServer.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\WebMatrix.Data.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\WebMatrix.WebData.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Razor.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Webpages.Razor.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Helpers.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\bin\System.Web.Mvc.xml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.csproj.CopyComplete
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Dinamične spletne rešitve\Vaje\dsr_vaja1\dsr_vaja1\obj\Debug\dsr_vaja1.pdb

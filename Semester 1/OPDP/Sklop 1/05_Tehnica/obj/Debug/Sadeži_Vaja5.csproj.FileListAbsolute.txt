@@ -1,0 +1,7 @@
+C:\Users\primo\Documents\college\OPDP\Sadeži_Vaja5\bin\Debug\sadezi.exe.config
+C:\Users\primo\Documents\college\OPDP\Sadeži_Vaja5\bin\Debug\sadezi.exe
+C:\Users\primo\Documents\college\OPDP\Sadeži_Vaja5\bin\Debug\sadezi.pdb
+C:\Users\primo\Documents\college\OPDP\Sadeži_Vaja5\obj\Debug\Sadeži_Vaja5.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sadeži_Vaja5\obj\Debug\Sadeži_Vaja5.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sadeži_Vaja5\obj\Debug\sadezi.exe
+C:\Users\primo\Documents\college\OPDP\Sadeži_Vaja5\obj\Debug\sadezi.pdb

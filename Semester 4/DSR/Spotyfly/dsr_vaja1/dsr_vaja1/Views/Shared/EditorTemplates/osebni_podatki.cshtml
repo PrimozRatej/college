@@ -1,0 +1,28 @@
+﻿@model dsr_vaja1.Models.Uporabnik.Uporabnik
+
+
+<div class="form-group">
+    @Html.LabelFor(reg => reg.ime, "Ime")
+    @Html.TextBoxFor(reg => reg.ime, new { @id = "ime", @name = "ime", @type = "text", @class = "form-control", @placeholder = "Ime" })
+    @Html.ValidationMessageFor(reg => reg.ime)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.priimek, "Priimek")
+    @Html.TextBoxFor(reg => reg.priimek, new { @id = "priimek", @name = "priimek", @type = "text", @class = "form-control", @placeholder = "Priimek" })
+    @Html.ValidationMessageFor(reg => reg.priimek)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.rojstni_datum, "Datum rojstva")
+    @Html.EditorFor(reg =>reg.rojstni_datum, "DateTime")
+    @Html.ValidationMessageFor(reg => reg.rojstni_datum)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.emso, "EMŠO")
+    @Html.TextBoxFor(reg => reg.emso, new { @id = "emso", @name = "emso", @type = "text", @class = "form-control", @placeholder = "EMŠO" })
+    @Html.ValidationMessageFor(reg => reg.emso)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.Starost, "Starost")
+    @Html.EditorFor(reg => reg.Starost, "Int32", new { @name = "starost" })
+</div>
+

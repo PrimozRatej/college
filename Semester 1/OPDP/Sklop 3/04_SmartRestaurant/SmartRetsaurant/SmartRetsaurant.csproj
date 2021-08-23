@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2B5FCE4-D60C-44E6-BCB5-D004636E026A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartRetsaurant</RootNamespace>
+    <AssemblyName>SmartRetsaurant</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dostava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dostava.Designer.cs">
+      <DependentUpon>Dostava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENI.Designer.cs">
+      <DependentUpon>MENI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NalaganjePozdrav.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NalaganjePozdrav.Designer.cs">
+      <DependentUpon>NalaganjePozdrav.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nastavitve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nastavitve.Designer.cs">
+      <DependentUpon>Nastavitve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NAstavitvecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NAstavitvecs.Designer.cs">
+      <DependentUpon>NAstavitvecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PogojiUporabe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PogojiUporabe.Designer.cs">
+      <DependentUpon>PogojiUporabe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prijava.Designer.cs">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfilRestavracije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfilRestavracije.Designer.cs">
+      <DependentUpon>ProfilRestavracije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfilRestavracije2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfilRestavracije2.Designer.cs">
+      <DependentUpon>ProfilRestavracije2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registracija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registracija.Designer.cs">
+      <DependentUpon>Registracija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RezervacijaMize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezervacijaMize.Designer.cs">
+      <DependentUpon>RezervacijaMize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeznamRestavracij.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeznamRestavracij.Designer.cs">
+      <DependentUpon>SeznamRestavracij.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zemljevid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zemljevid.Designer.cs">
+      <DependentUpon>Zemljevid.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dostava.resx">
+      <DependentUpon>Dostava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENI.resx">
+      <DependentUpon>MENI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NalaganjePozdrav.resx">
+      <DependentUpon>NalaganjePozdrav.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nastavitve.resx">
+      <DependentUpon>Nastavitve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NAstavitvecs.resx">
+      <DependentUpon>NAstavitvecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PogojiUporabe.resx">
+      <DependentUpon>PogojiUporabe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prijava.resx">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilRestavracije.resx">
+      <DependentUpon>ProfilRestavracije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfilRestavracije2.resx">
+      <DependentUpon>ProfilRestavracije2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registracija.resx">
+      <DependentUpon>Registracija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RezervacijaMize.resx">
+      <DependentUpon>RezervacijaMize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeznamRestavracij.resx">
+      <DependentUpon>SeznamRestavracij.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zemljevid.resx">
+      <DependentUpon>Zemljevid.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,107 @@
+body
+{
+    margin-top: 1.3cm;
+    background-color: #F0F0F0;
+    color: darkgrey;
+    font-family: Arial;
+    font-size: 0.4cm;
+}
+/* poravnava na sredino */
+body div
+{
+    width: 18cm;
+    margin: 0 auto;
+}
+
+/* odstavek čez celo stran */
+div:first-of-type div:nth-of-type(1) p
+{
+    padding-top: 0.8cm;
+    padding-bottom: 0.9cm;
+}
+
+/* div z stolpcema */
+div:first-of-type div:nth-of-type(2) p
+{
+    width: 47%;
+    display: inline-block;
+}
+/* prva črka obeh stolpcev */
+div:first-of-type div:nth-of-type(2) p::first-letter
+{
+    font-size: 0.8cm;
+}
+/* prvi stolpec */
+div:nth-of-type(2) p:nth-of-type(1)
+{
+    padding-right: 0.4cm;
+    text-align: right;
+}
+div:first-of-type div:nth-of-type(2) p:nth-of-type(1)::first-line,
+div:first-of-type div:nth-of-type(2) p:nth-of-type(1)::first-letter
+{
+    color: green;
+}
+/* drugi stolpec */
+div:first-of-type div:nth-of-type(2) p:nth-of-type(2)
+{
+    padding-left: 0.5cm;
+    text-align: justify;
+}
+
+/* div z vnosnimi polji */
+body div:nth-child(2) div
+{
+    padding-top: 0.1cm; /*poravnava med labelami */
+}
+div:nth-child(2) div:nth-of-type(1):not(.spacer)::before
+{
+    display: block;
+    content: "Vnesi ime in priimek:";
+    font-style: italic;
+}
+div:nth-child(2) div:nth-of-type(2)::before
+{
+    display: block;
+    content: "Vnesi starost:";
+    font-weight: bold;
+}
+input[type="text"], input[type="number"]
+{
+    width: 5.3cm;
+    background: #fefcea;
+    background: linear-gradient(to bottom, #fefcea 0%,#f1da36 100%);
+}
+
+/* zadnji div */
+body > div:last-child
+{
+    padding-top: 0.6cm;
+}
+
+/* tabela */
+table, th, td, tr
+{
+    color: black;
+    padding: 0.2cm;
+    border: 1px solid #c1e44e;
+    border-collapse: collapse;
+}
+
+/* glava tabele */
+th
+{
+    color: white;
+}
+table thead
+{
+    background: #9dd53a;
+    background: linear-gradient(to bottom, #9dd53a 0%,#a1d54f 50%,#80c217 51%,#7cbc0a 100%);
+}
+
+/* telo tabele */
+/* pobarvane sode vrstice */
+tbody tr:nth-child(2n)
+{
+    background-color: #c6e97c;
+}

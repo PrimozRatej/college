@@ -1,0 +1,15 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\semafor\semafor\bin\Debug\semafor.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\semafor\semafor\bin\Debug\semafor.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\semafor\semafor\bin\Debug\semafor.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\bin\Debug\semafor.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.pdb
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\bin\Debug\semafor.exe.config
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\bin\Debug\semafor.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\bin\Debug\semafor.pdb
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\12. - naloga - Denar (9)\semafor\semafor\obj\Debug\semafor.pdb

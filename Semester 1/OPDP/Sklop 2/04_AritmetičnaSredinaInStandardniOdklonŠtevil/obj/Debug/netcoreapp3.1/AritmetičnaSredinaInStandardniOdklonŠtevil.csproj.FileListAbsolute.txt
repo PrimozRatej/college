@@ -1,0 +1,14 @@
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\bin\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\bin\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.deps.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\bin\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.runtimeconfig.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\bin\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.runtimeconfig.dev.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\bin\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.dll
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\bin\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.AssemblyInfoInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.AssemblyInfo.cs
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.dll
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 2\04_AritmetičnaSredinaInStandardniOdklonŠtevil\obj\Debug\netcoreapp3.1\AritmetičnaSredinaInStandardniOdklonŠtevil.genruntimeconfig.cache

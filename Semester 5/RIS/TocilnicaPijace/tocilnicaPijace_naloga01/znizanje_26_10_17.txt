@@ -1,0 +1,4 @@
+4,Schweppes,1.5,27,2,EURO,3;
+3,Fanta,1.5,26,0.98,EURO,3;
+4,Schweppes,1.5,27,2,EURO,3;
+7,Cocta,1.5,30,1.764,EURO,2;

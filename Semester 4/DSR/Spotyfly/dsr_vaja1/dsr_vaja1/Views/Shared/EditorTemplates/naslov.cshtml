@@ -1,0 +1,29 @@
+﻿@model dsr_vaja1.Models.Uporabnik.Uporabnik
+
+
+<div class="form-group">
+    @Html.LabelFor(reg => reg.naslov, "Naslov")
+    @Html.TextBoxFor(reg => reg.naslov, new { @id = "naslov", @name = "naslov", @type = "text", @class = "form-control", @placeholder = "Naslov" })
+    @Html.ValidationMessageFor(reg => reg.naslov)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.Kraji, "Rojstni kraj")
+    @Html.DropDownListFor(reg => reg.Kraji, Model.kraji_list, new { @name = "kraji" })
+    @Html.ValidationMessageFor(reg => reg.Kraji)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.posta, "Pošta")
+    @Html.TextBoxFor(reg => reg.posta, new { @id = "posta", @name = "posta", @type = "text", @class = "form-control", @placeholder = "Pošta" })
+    @Html.ValidationMessageFor(reg => reg.posta)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.drzava, "Država")
+    @Html.TextBoxFor(reg => reg.drzava, new { @id = "drzava", @name = "drzava", @type = "text", @class = "form-control", @placeholder = "Država" })
+    @Html.ValidationMessageFor(reg => reg.drzava)
+</div>
+<div class="form-group">
+    @Html.LabelFor(reg => reg.postna_stevilka, "Postna stevilka")
+    @Html.TextBoxFor(reg => reg.postna_stevilka, new { @id = "postna_stevilka", @name = "postna_stevilka", @type = "text", @class = "form-control", @placeholder = "Postna številka" })
+    @Html.ValidationMessageFor(reg => reg.postna_stevilka)
+</div>
+

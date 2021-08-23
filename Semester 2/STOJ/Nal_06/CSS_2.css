@@ -1,0 +1,22 @@
+.graf{
+    border: 3px solid #ffd708;
+    height: 8.8cm;
+    width: 9cm;
+    padding-left: 0.1cm;
+
+}
+
+.stolpec{
+    margin-top: 0.15cm;
+    background-color: #057e00;
+    width: 1.7cm;
+    display: inline-block;
+}
+.napis{
+
+    margin-top: 0cm;
+    display: inline-block;
+    width: 1.7cm;
+    background-color: #ffd708;
+    text-align: center;
+}

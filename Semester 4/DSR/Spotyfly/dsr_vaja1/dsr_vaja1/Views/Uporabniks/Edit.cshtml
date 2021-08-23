@@ -1,0 +1,39 @@
+﻿@model dsr_vaja1.Models.Uporabnik.Uporabnik
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/MasterStran.cshtml";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="container">
+        <ul class="nav nav-pills nav-justified">
+            <li class="active"><a href="#Osebni_podatki" data-toggle="tab">Osebni podatki</a></li>
+            <li><a href="#Naslov" data-toggle="tab">Naslov</a></li>
+            <li><a href="#Racun" data-toggle="tab">Račun</a></li>
+        </ul>
+    </div>
+    <div class="tab-content">
+        <div class="tab-pane fade in active" id="Osebni_podatki">
+            @Html.EditorForModel("osebni_podatki")
+        </div>
+        <div class="tab-pane fade" id="Naslov">
+            @Html.EditorForModel("naslov")
+        </div>
+        <div class="tab-pane fade" id="Racun">
+            @Html.EditorForModel("racuni")
+        </div>
+    </div>
+    <button type="submit" id="sbmt" class="btn btn-default">Naprej</button>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+

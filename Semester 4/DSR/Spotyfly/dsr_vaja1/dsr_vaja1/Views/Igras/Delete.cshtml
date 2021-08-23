@@ -1,0 +1,73 @@
+﻿@model dsr_vaja1.Models.Igra.Igra
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/MasterStran.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Igra</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.proizvajalec)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.proizvajalec)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cena)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cena)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.datum_prihoda)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.datum_prihoda)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.zaloga)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.zaloga)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Zvrsti)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Zvrsti)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

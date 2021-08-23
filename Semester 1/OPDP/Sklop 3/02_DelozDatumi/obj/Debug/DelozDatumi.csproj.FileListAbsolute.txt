@@ -1,0 +1,13 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\DelozDatumi\DelozDatumi\bin\Debug\DelozDatumi.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\DelozDatumi\DelozDatumi\obj\Debug\DelozDatumi.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\DelozDatumi\DelozDatumi\bin\Debug\DelozDatumi.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\DelozDatumi\DelozDatumi\bin\Debug\DelozDatumi.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\DelozDatumi\DelozDatumi\obj\Debug\DelozDatumi.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\DelozDatumi\DelozDatumi\obj\Debug\DelozDatumi.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 3\02_DelozDatumi\bin\Debug\DelozDatumi.exe.config
+C:\Users\primo\Documents\college\OPDP\Sklop 3\02_DelozDatumi\bin\Debug\DelozDatumi.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 3\02_DelozDatumi\bin\Debug\DelozDatumi.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 3\02_DelozDatumi\obj\Debug\DelozDatumi.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 3\02_DelozDatumi\obj\Debug\DelozDatumi.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 3\02_DelozDatumi\obj\Debug\DelozDatumi.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 3\02_DelozDatumi\obj\Debug\DelozDatumi.pdb

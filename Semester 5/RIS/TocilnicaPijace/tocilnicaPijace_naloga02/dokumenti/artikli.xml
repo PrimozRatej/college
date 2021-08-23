@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE skladisce SYSTEM "artikli.dtd"[]>
+<skladisce>
+  <artikel id="a1">
+    <naziv>CocaCola</naziv>
+    <kolicina>1.5</kolicina>
+    <cena>
+      <znesek>2.50</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>200</zaloga>
+    <datumZadnjeNabave>12/9/2017</datumZadnjeNabave>
+    <dobaviteljId>1</dobaviteljId>
+  </artikel>
+  <artikel id="a2">
+    <naziv>Fanta</naziv>
+    <kolicina>1.5</kolicina>
+    <cena>
+      <znesek>2</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>100</zaloga>
+    <datumZadnjeNabave>6/8/2017</datumZadnjeNabave>
+    <dobaviteljId>1</dobaviteljId>
+  </artikel>
+  <artikel id="a3">
+    <naziv>7Up</naziv>
+    <kolicina>1.5</kolicina>
+    <cena>
+      <znesek>1.5</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>100</zaloga>
+    <datumZadnjeNabave>11/10/2017</datumZadnjeNabave>
+    <dobaviteljId>1</dobaviteljId>
+  </artikel>
+  <artikel id="a4">
+    <naziv>IceTea</naziv>
+    <kolicina>1.5</kolicina>
+    <cena>
+      <znesek>1.8</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>60</zaloga>
+    <datumZadnjeNabave>10/10/2017</datumZadnjeNabave>
+    <dobaviteljId>2</dobaviteljId>
+  </artikel>
+  <artikel id="a5">
+    <naziv>IceTea</naziv>
+    <kolicina>1.5</kolicina>
+    <cena>
+      <znesek>1.7</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>55</zaloga>
+    <datumZadnjeNabave>13/10/2017</datumZadnjeNabave>
+    <dobaviteljId>2</dobaviteljId>
+  </artikel>
+  <artikel id="a7">
+    <naziv>Cvicek</naziv>
+    <kolicina>20</kolicina>
+    <cena>
+      <znesek>3.5</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>40</zaloga>
+    <datumZadnjeNabave>12/04/2016 00:00:00</datumZadnjeNabave>
+    <dobaviteljId>4</dobaviteljId>
+  </artikel>
+  <artikel id="a6">
+    <naziv>Refosk</naziv>
+    <kolicina>30</kolicina>
+    <cena>
+      <znesek>3.5</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>3</zaloga>
+    <datumZadnjeNabave>01/01/2016 00:00:00</datumZadnjeNabave>
+    <dobaviteljId>4</dobaviteljId>
+  </artikel>
+  <artikel id="a8">
+    <naziv>Sprite</naziv>
+    <kolicina>0.5</kolicina>
+    <cena>
+      <znesek>1.34</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>30</zaloga>
+    <datumZadnjeNabave>11/03/2017 00:00:00</datumZadnjeNabave>
+    <dobaviteljId>1</dobaviteljId>
+  </artikel>
+  <artikel id="a9">
+    <naziv>CocaCola Zero</naziv>
+    <kolicina>1.5</kolicina>
+    <cena>
+      <znesek>1.9</znesek>
+      <valuta tip="EURO" />
+    </cena>
+    <zaloga>20</zaloga>
+    <datumZadnjeNabave>11/04/2017 00:00:00</datumZadnjeNabave>
+    <dobaviteljId>4</dobaviteljId>
+  </artikel>
+</skladisce>

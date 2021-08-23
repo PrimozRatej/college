@@ -1,0 +1,14 @@
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\bin\Debug\netcoreapp3.1\Semafor.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\bin\Debug\netcoreapp3.1\Semafor.deps.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\bin\Debug\netcoreapp3.1\Semafor.runtimeconfig.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\bin\Debug\netcoreapp3.1\Semafor.runtimeconfig.dev.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\bin\Debug\netcoreapp3.1\Semafor.dll
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\bin\Debug\netcoreapp3.1\Semafor.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.AssemblyInfoInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.AssemblyInfo.cs
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.dll
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 2\11_AnimacijaKvadratniSemafor\obj\Debug\netcoreapp3.1\Semafor.genruntimeconfig.cache

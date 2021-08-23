@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dobavitelji SYSTEM "dobavitelji.dtd"[]>
+<dobavitelji>
+  <dobavitelj id="d1">
+    <naziv>Janko Bobik d.o.o</naziv>
+    <ime>Janko</ime>
+    <priimek>Bobik</priimek>
+    <naslov>
+      <ulica>Mišova ulica</ulica>
+      <stevilka>23</stevilka>
+      <posta>
+        <kraj>Ljubljana</kraj>
+        <p_stevilka>1000</p_stevilka>
+      </posta>
+    </naslov>
+  </dobavitelj>
+  <dobavitelj id="d2">
+    <naziv>Mišo Bobik d.o.o</naziv>
+    <ime>Mišo</ime>
+    <priimek>Bobik</priimek>
+    <naslov>
+      <ulica>Bobova ulica</ulica>
+      <stevilka>58a</stevilka>
+      <posta>
+        <kraj>Ljubljana</kraj>
+        <p_stevilka>1000</p_stevilka>
+      </posta>
+    </naslov>
+  </dobavitelj>
+  <dobavitelj id="d3">
+    <naziv>Nina Bina s.p.</naziv>
+    <ime>Nina</ime>
+    <priimek>Bina</priimek>
+    <naslov>
+      <ulica>Nikova ulica</ulica>
+      <stevilka>2a/3</stevilka>
+      <posta>
+        <kraj>Maribor</kraj>
+        <p_stevilka>2000</p_stevilka>
+      </posta>
+    </naslov>
+  </dobavitelj>
+  <dobavitelj id="d4">
+    <naziv>Nik Borko d.d.</naziv>
+    <ime>Nik</ime>
+    <priimek>Borko</priimek>
+    <naslov>
+      <ulica>Ljubljanska cesta</ulica>
+      <stevilka>29</stevilka>
+      <posta>
+        <kraj>Maribor</kraj>
+        <p_stevilka>2000</p_stevilka>
+      </posta>
+    </naslov>
+  </dobavitelj>
+  <dobavitelj id="d5">
+    <naziv>Dobavitelj d.o.o</naziv>
+    <ime>Niko</ime>
+    <priimek>Babič</priimek>
+    <naslov>
+      <ulica>Pot na lavo</ulica>
+      <stevilka>23</stevilka>
+      <posta>
+        <kraj>Celje</kraj>
+        <p_stevilka>2000</p_stevilka>
+      </posta>
+    </naslov>
+  </dobavitelj>
+  <dobavitelj id="d6">
+    <naziv>Dobavitelj d.o.o</naziv>
+    <ime>Dob</ime>
+    <priimek>Avitel</priimek>
+    <naslov>
+      <ulica>Nema Take ulice</ulica>
+      <stevilka>69</stevilka>
+      <posta>
+        <kraj>Maribor</kraj>
+        <p_stevilka>1000</p_stevilka>
+      </posta>
+    </naslov>
+  </dobavitelj>
+  <dobavitelj id="d8">
+    <naziv>Dobavitelj Nino d.o.o</naziv>
+    <ime>Nino</ime>
+    <priimek>Bino</priimek>
+    <naslov>
+      <ulica>Moisova cesta</ulica>
+      <stevilka>34b</stevilka>
+      <posta>
+        <kraj>Ptuj</kraj>
+        <p_stevilka>5000</p_stevilka>
+      </posta>
+    </naslov>
+  </dobavitelj>
+</dobavitelji>

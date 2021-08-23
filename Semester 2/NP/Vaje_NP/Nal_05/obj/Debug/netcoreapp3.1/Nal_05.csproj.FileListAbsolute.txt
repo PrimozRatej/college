@@ -1,0 +1,17 @@
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.AssemblyInfoInputs.cache
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.AssemblyInfo.cs
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.csproj.CoreCompileInputs.cache
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.csproj.AssemblyReference.cache
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Nal_05.exe
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Nal_05.deps.json
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Nal_05.runtimeconfig.json
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Nal_05.runtimeconfig.dev.json
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Nal_05.dll
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Nal_05.pdb
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Pot_Lib.dll
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\bin\Debug\netcoreapp3.1\Pot_Lib.pdb
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.csproj.CopyComplete
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.dll
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.pdb
+C:\Users\primo\source\repos\Vaje_NP\Nal_05\obj\Debug\netcoreapp3.1\Nal_05.genruntimeconfig.cache

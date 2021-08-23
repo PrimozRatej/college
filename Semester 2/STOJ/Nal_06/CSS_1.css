@@ -1,0 +1,53 @@
+.prvi{
+    position: static;
+     height: 3cm;
+     width: 10cm;
+     padding-left: 3cm;
+     padding-top: 3.2cm;
+     margin-left: 2cm;
+     margin-top: 0.4cm;
+
+     border: 3px solid aqua;
+
+ }
+
+.drugi{
+    position: relative;
+    height: 3cm;
+    top: 3cm;
+    margin-right: -2cm;
+    margin-left: 2cm;
+    width: 55px;
+    padding: 1cm 50% 0;
+    text-align: justify;
+
+    border: 3px solid #057e00;
+
+}
+
+.tretji{
+    position: fixed;
+    height: 1.3cm;
+    width: 5cm;
+    padding-left: 1cm;
+    padding-top: 0.4cm;
+    border: 3px solid #ffd708;
+    margin-top: -0.5cm;
+    /*top: 13cm;*/
+
+}
+
+
+.cetrti{
+    position: absolute;
+    height: 3.5cm;
+    width: 6.5cm;
+    left: 11cm;
+    top: 5cm;
+    padding-left: 1cm;
+    padding-top: 0.8cm;
+
+
+    border: 3px solid red;
+
+}

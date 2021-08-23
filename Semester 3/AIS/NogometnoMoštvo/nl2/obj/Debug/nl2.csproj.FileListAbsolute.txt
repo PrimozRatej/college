@@ -1,0 +1,113 @@
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\csc.exe
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\vbc.exe
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\nl2.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\nl2.pdb
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.Web.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.Web.xml
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\obj\Debug\nl2.dll
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\obj\Debug\nl2.pdb
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\obj\Debug\nl2.csprojResolveAssemblyReference.cache
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\nl2\bin\nl2.dll.config
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\csc.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\vbc.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\nl2.dll.config
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\nl2.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\nl2.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.Web.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.Web.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.csprojResolveAssemblyReference.cache
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.SqlServer.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.SqlServer.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.Migrations.InitialCreate.resources
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.csproj.GenerateResource.Cache
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.Migrations.AddBlogUrl.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\desktop.ini
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\csc.exe
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\vbc.exe
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\VBCSCompiler.exe
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\nl2.dll.config
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\nl2.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\nl2.pdb
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.SqlServer.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.Web.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\EntityFramework.SqlServer.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.Web.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.Migrations.InitialCreate.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.Migrations.AddBlogUrl.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.csproj.GenerateResource.cache
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.csproj.CopyComplete
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.dll
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\nl2\obj\Debug\nl2.pdb

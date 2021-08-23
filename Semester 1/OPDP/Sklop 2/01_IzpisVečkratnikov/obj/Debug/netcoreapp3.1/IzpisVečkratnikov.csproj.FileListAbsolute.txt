@@ -1,0 +1,14 @@
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\bin\Debug\netcoreapp3.1\IzpisVečkratnikov.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\bin\Debug\netcoreapp3.1\IzpisVečkratnikov.deps.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\bin\Debug\netcoreapp3.1\IzpisVečkratnikov.runtimeconfig.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\bin\Debug\netcoreapp3.1\IzpisVečkratnikov.runtimeconfig.dev.json
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\bin\Debug\netcoreapp3.1\IzpisVečkratnikov.dll
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\bin\Debug\netcoreapp3.1\IzpisVečkratnikov.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.AssemblyInfoInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.AssemblyInfo.cs
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.dll
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 2\01_IzpisVečkratnikov\obj\Debug\netcoreapp3.1\IzpisVečkratnikov.genruntimeconfig.cache

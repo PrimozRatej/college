@@ -1,0 +1,16 @@
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\Odjemalec\bin\Debug\Odjemalec.exe.config
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\Odjemalec\bin\Debug\Odjemalec.exe
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\Odjemalec\bin\Debug\Odjemalec.pdb
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\Odjemalec\obj\Debug\Odjemalec.csprojResolveAssemblyReference.cache
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\Odjemalec\obj\Debug\Odjemalec.exe
+C:\Users\Primož\Desktop\Naloga02_Arhitekurni_Vzorci\nl2\Odjemalec\obj\Debug\Odjemalec.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\obj\Debug\Odjemalec.csprojResolveAssemblyReference.cache
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\obj\Debug\Odjemalec.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\obj\Debug\Odjemalec.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\bin\Debug\Odjemalec.exe.config
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\bin\Debug\Odjemalec.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\bin\Debug\Odjemalec.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\bin\Debug\EntityFramework.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\bin\Debug\EntityFramework.xml
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\Odjemalec\bin\Debug\EntityFramework.SqlServer.xml

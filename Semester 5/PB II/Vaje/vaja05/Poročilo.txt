@@ -1,0 +1,3 @@
+//1. Izpišite seznam vseh restavracij, pri čemer izpišite samo naziv restavracije, njen naslov in hišno številko.
+> db.restavracija.find({}, { naziv: 1, "naslov.ulica": 1, "naslov.hisna_st": 1 }).pretty();
+//2. 

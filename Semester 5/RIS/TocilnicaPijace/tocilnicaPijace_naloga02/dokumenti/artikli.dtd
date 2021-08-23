@@ -1,0 +1,14 @@
+﻿
+<!ELEMENT skladisce (artikel+)>
+<!ELEMENT artikel (naziv,kolicina,cena,zaloga,datumZadnjeNabave,dobaviteljId)>
+<!ELEMENT naziv (#PCDATA)>
+<!ELEMENT kolicina (#PCDATA)>
+<!ELEMENT cena (znesek,valuta)>
+<!ELEMENT znesek (#PCDATA)>
+<!ELEMENT valuta EMPTY>
+<!ELEMENT zaloga (#PCDATA)>
+<!ELEMENT datumZadnjeNabave (#PCDATA)>
+<!ELEMENT dobaviteljId (#PCDATA)>
+
+<!ATTLIST artikel id ID #REQUIRED>
+<!ATTLIST valuta tip (EURO|USD|HRK) #REQUIRED>

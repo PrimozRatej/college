@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema"
+    targetNamespace="http://tempuri.org/XMLSchema1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="skladisce">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="artikel">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:element name="naziv" type="xs:string"/>
+              <xs:element name="kolicina" type="xs:double"/>
+              <xs:element name="cena">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="znesek" type="xs:double"/>
+                    <xs:element name="valuta"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="zaloga" type="xs:int"/>
+              <xs:element name="datumZadnjeNabave" type="xs:dateTime"/>
+              <xs:element name="dobaviteljId" type="xs:int"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="dobavitelji">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="dobavitelj">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="naziv" type="xs:string"/>
+              <xs:element name="ime" type="xs:string"/>
+              <xs:element name="priimek" type="xs:string"/>
+              <xs:element name="naslov">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ulica" type="xs:string"/>
+                    <xs:element name="stevilka" type="xs:string"/>
+                    <xs:element name="posta">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="kraj" type="xs:string"/>
+                          <xs:element name ="p_stevilka" type="xs:int"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

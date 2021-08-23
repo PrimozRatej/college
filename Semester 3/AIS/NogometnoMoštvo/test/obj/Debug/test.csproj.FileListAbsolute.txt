@@ -1,0 +1,8 @@
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\bin\Debug\test.exe.config
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\bin\Debug\test.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\bin\Debug\test.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\obj\Debug\test.Form1.resources
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\obj\Debug\test.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\test\obj\Debug\test.pdb

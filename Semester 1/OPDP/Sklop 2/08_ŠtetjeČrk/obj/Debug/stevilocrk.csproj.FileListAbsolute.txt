@@ -1,0 +1,6 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\Nova mapa\stevilocrk\stevilocrk\bin\Debug\stevilocrk.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\Nova mapa\stevilocrk\stevilocrk\bin\Debug\stevilocrk.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\Nova mapa\stevilocrk\stevilocrk\bin\Debug\stevilocrk.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\Nova mapa\stevilocrk\stevilocrk\obj\Debug\stevilocrk.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\Nova mapa\stevilocrk\stevilocrk\obj\Debug\stevilocrk.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\Nova mapa\stevilocrk\stevilocrk\obj\Debug\stevilocrk.pdb

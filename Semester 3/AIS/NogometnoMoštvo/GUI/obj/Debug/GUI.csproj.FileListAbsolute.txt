@@ -1,0 +1,38 @@
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\bin\Debug\GUI.exe.config
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\bin\Debug\GUI.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\bin\Debug\GUI.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.exe
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.pdb
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.Glavno.resources
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.buttonDodajKomitenta.resources
+C:\Users\Primož\OneDrive - Univerza v Mariboru\College Life\2. letnik\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.DodajTransakcijo.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\bin\Debug\GUI.exe.config
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\bin\Debug\GUI.exe
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\bin\Debug\GUI.pdb
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.buttonDodajKomitenta.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.DodajTransakcijo.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.Glavno.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.exe
+C:\Users\primo\Documents\MyGit\2_1. Semester\1. Semester\Arhitekture AIS\Vaje\02 Naloga\GUI\obj\Debug\GUI.pdb
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\bin\Debug\GUI.exe.config
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\bin\Debug\GUI.exe
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\bin\Debug\GUI.pdb
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.buttonDodajKomitenta.resources
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.DodajTransakcijo.resources
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.Glavno.resources
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.exe
+C:\Users\primo\Documents\college\Semester 3\AIS\NogometnoMoštvo\GUI\obj\Debug\GUI.pdb

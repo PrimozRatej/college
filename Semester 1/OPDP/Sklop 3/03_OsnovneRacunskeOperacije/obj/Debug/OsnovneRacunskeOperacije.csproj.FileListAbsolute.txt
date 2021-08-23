@@ -1,0 +1,7 @@
+C:\Users\primo\Documents\college\OPDP\Sklop 3\03_OsnovneRacunskeOperacije\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\primo\Documents\college\OPDP\Sklop 3\03_OsnovneRacunskeOperacije\bin\Debug\ConsoleApplication1.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 3\03_OsnovneRacunskeOperacije\bin\Debug\ConsoleApplication1.pdb
+C:\Users\primo\Documents\college\OPDP\Sklop 3\03_OsnovneRacunskeOperacije\obj\Debug\OsnovneRacunskeOperacije.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 3\03_OsnovneRacunskeOperacije\obj\Debug\OsnovneRacunskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\OPDP\Sklop 3\03_OsnovneRacunskeOperacije\obj\Debug\ConsoleApplication1.exe
+C:\Users\primo\Documents\college\OPDP\Sklop 3\03_OsnovneRacunskeOperacije\obj\Debug\ConsoleApplication1.pdb

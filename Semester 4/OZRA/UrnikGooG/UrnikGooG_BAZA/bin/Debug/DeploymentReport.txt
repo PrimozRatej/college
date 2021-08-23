@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Bolniška] (Table)
+       [dbo].[Dopust] (Table)
+       [dbo].[Izmena] (Table)
+       [dbo].[MesečniUrnik] (Table)
+       [dbo].[Opravilo] (Table)
+       [dbo].[ProstiDan] (Table)
+       [dbo].[TipOpravila] (Table)
+       [dbo].[Zaposleni] (Table)
+       [dbo].[FK_Opravilo] (Foreign Key)
+       [dbo].[FK_Zaposleni] (Foreign Key)
+       [dbo].[FK_Dopust] (Foreign Key)
+       [dbo].[FK_Bolniška] (Foreign Key)
+       [dbo].[FK_Izmena] (Foreign Key)
+       [dbo].[FK_TipOpravila] (Foreign Key)
+
+** Supporting actions

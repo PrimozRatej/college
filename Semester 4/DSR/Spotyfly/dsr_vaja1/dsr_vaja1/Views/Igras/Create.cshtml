@@ -1,0 +1,31 @@
+﻿@model dsr_vaja1.Models.Igra.Igra
+
+@{
+    ViewBag.Title = "Ustvari igro";
+    Layout = "~/Views/Shared/MasterStran.cshtml";
+}
+
+
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    <div class="container">
+        <ul class="nav nav-pills nav-justified">
+            <li class="active"><a href="#podatki_o_igri" data-toggle="tab">Podatki o igri</a></li>
+        </ul>
+    </div>
+    <div class="tab-content">
+        <div class="tab-pane fade in active" id="podatki_o_igri">
+            @Html.EditorForModel("podatki_o_igri")
+        </div>
+    </div>
+    <button type="submit" id="sbmt" class="btn btn-default">Naprej</button>
+
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+

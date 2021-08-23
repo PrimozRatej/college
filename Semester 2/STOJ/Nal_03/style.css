@@ -1,0 +1,15 @@
+
+.green {
+  background-color: #DFF0D8;
+}
+
+.dodajZapis {
+  background-color: #D9EDF7;
+  font-size: 120%;
+}
+
+.delegatiSlider {
+  display: inline-block; 
+  width: 10em;
+  margin-right: 0.75em;
+}

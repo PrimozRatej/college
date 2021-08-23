@@ -1,0 +1,59 @@
+﻿@model Spotyfly.Models.Uporabnik
+
+@{
+    ViewBag.Title = "vpisOsnovnihPodatkov";
+}
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  $( function() {
+      $("#datepicker").datepicker({ dateFormat: 'yy/mm/dd' }).val();
+  } );
+</script>
+
+<h2>Vpis osnovnih podatkov</h2>
+
+@using (Html.BeginForm())
+{
+    if (ViewBag.opozorilo != null)
+    {
+        <p><b>@ViewBag.opozorilo</b></p><br />
+    }
+    <table>
+        <tr>
+            <td>Ime:</td>
+            <td>@Html.TextBoxFor(m => m.ime, new { @maxLength = "20" })</td>
+        </tr>
+        <tr>
+            <td>Priimek:</td>
+            <td>@Html.TextBoxFor(m => m.priimek, new { @maxLength = "30" })</td>
+        </tr>
+        <tr>
+            <td>Datum rojstva:</td>
+            <td>@Html.TextBoxFor(m => m.datumRojstva, new {@id = "datepicker"  })</td>
+        </tr>
+        <tr>
+            <td>EMŠO:</td>
+            <td>@Html.TextBoxFor(m => m.emšo, new { @maxLength = "13" })</td>
+        </tr>
+        <tr>
+            <td>Starost:</td>
+            <td>@Html.TextBoxFor(m => m.starost, new { @maxLength = "20" })</td>
+        </tr>
+    </table>
+    <input type="submit" name="Naprej" />
+    
+    <!--<label>Ime:</label><input type="text" name="ime"/><br />
+    <label>Priimek:</label><input type="text" name="priimek" /><br />
+    <label>Datum rojstva: </label><input type="text" name="danRojstva" /><br /><!--Spremeni v datepicker -->
+    <!--<label>EMŠO</label><input type="text" name="emšo" /><br />
+    <label>Starost:</label><input type="text" name="starost" /><br /><!--Spremeni v slider -->
+    <!--<br />-->
+
+
+    
+}
+

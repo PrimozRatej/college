@@ -1,0 +1,14 @@
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\1. - naloga - Obseg pravokotnika (3)\ObsegPravokotnika\PloscinaPravokotnika_Vaja1_OPDP\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\1. - naloga - Obseg pravokotnika (3)\ObsegPravokotnika\PloscinaPravokotnika_Vaja1_OPDP\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\1. - naloga - Obseg pravokotnika (3)\ObsegPravokotnika\PloscinaPravokotnika_Vaja1_OPDP\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\1. - naloga - Obseg pravokotnika (3)\ObsegPravokotnika\PloscinaPravokotnika_Vaja1_OPDP\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.pdb
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\1. - naloga - Obseg pravokotnika (3)\ObsegPravokotnika\PloscinaPravokotnika_Vaja1_OPDP\PloscinaPravokotnika_Vaja1_OPDP\bin\Debug\PloscinaPravokotnika_Vaja1_OPDP.exe.config
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\1. - naloga - Obseg pravokotnika (3)\ObsegPravokotnika\PloscinaPravokotnika_Vaja1_OPDP\PloscinaPravokotnika_Vaja1_OPDP\bin\Debug\PloscinaPravokotnika_Vaja1_OPDP.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop1\1. - naloga - Obseg pravokotnika (3)\ObsegPravokotnika\PloscinaPravokotnika_Vaja1_OPDP\PloscinaPravokotnika_Vaja1_OPDP\bin\Debug\PloscinaPravokotnika_Vaja1_OPDP.pdb
+C:\Users\primo\Documents\college\PloscinaPravokotnika_Vaja1_OPDP\bin\Debug\PloscinaPravokotnika_Vaja1_OPDP.exe.config
+C:\Users\primo\Documents\college\PloscinaPravokotnika_Vaja1_OPDP\bin\Debug\PloscinaPravokotnika_Vaja1_OPDP.exe
+C:\Users\primo\Documents\college\PloscinaPravokotnika_Vaja1_OPDP\bin\Debug\PloscinaPravokotnika_Vaja1_OPDP.pdb
+C:\Users\primo\Documents\college\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\college\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\college\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.exe
+C:\Users\primo\Documents\college\PloscinaPravokotnika_Vaja1_OPDP\obj\Debug\PloscinaPravokotnika_Vaja1_OPDP.pdb

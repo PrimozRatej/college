@@ -1,0 +1,34 @@
+.harmonika{
+    width: 17cm;
+}
+article{
+    height: 4cm;
+    overflow: hidden;
+
+}
+article:active{
+    height: auto;
+
+}
+article:active .naslov{
+    padding-left: 0.6cm;
+}
+
+article:active .vsebina{
+    padding-left: 0.3cm;
+}
+
+#adijo1{
+    background-color: aqua;
+}
+
+#adijo2{
+    background-color: bisque;
+}
+#adijo3{
+    background-color: gold;
+}
+#adijo4{
+     background-color: red;
+}
+

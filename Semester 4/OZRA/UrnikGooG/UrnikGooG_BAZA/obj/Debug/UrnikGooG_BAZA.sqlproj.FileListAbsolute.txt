@@ -1,0 +1,9 @@
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\bin\Debug\UrnikGooG_BAZA.dacpac
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\bin\Debug\UrnikGooG_BAZA.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\bin\Debug\UrnikGooG_BAZA.pdb
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\obj\Debug\Model.xml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\obj\Debug\refactor.xml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\obj\Debug\postdeploy.sql
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\obj\Debug\predeploy.sql
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\obj\Debug\UrnikGooG_BAZA.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_BAZA\obj\Debug\UrnikGooG_BAZA.pdb

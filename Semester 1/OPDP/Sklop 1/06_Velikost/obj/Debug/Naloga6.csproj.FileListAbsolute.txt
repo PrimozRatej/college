@@ -1,0 +1,6 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\6. - naloga - Velikost (6)\Naloga6\Naloga6\bin\Debug\Naloga6.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\6. - naloga - Velikost (6)\Naloga6\Naloga6\bin\Debug\Naloga6.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\6. - naloga - Velikost (6)\Naloga6\Naloga6\bin\Debug\Naloga6.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\6. - naloga - Velikost (6)\Naloga6\Naloga6\obj\Debug\Naloga6.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\6. - naloga - Velikost (6)\Naloga6\Naloga6\obj\Debug\Naloga6.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\6. - naloga - Velikost (6)\Naloga6\Naloga6\obj\Debug\Naloga6.pdb

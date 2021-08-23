@@ -1,0 +1,78 @@
+﻿@model IEnumerable<dsr_vaja1.Models.Uporabnik.Uporabnik>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="lead">@ViewBag.Title</h1>
+        <h4 class="lead">@ViewBag.Message</h4>
+        <hr class="hr" />
+    </div>
+</div>
+<button type="button" class="navbar-btn btn reg" onclick="location.href='@Url.Action("Register", "Account")'">Dodaj uporabnika</button>
+
+
+<div id="accordion">
+    <h3>Uporabniki</h3>
+    <div>
+        <table class="table table-hover ">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.priimek)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.rojstni_datum)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Kraji)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.emso)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Starost)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.email)
+                </th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.priimek)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.rojstni_datum)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Kraji)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.emso)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Starost)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.email)
+                    </td>
+                    <td>
+                        @if (User.IsInRole("Admin"))
+                        {
+                        @Html.ActionLink("Uredi|", "Edit", new { id = item.Id }) 
+                        @Html.ActionLink("Podrobno|", "Details", new { id = item.Id }) 
+                        @Html.ActionLink("Izbriši", "Delete", new { id = item.Id })
+                        }
+                    
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

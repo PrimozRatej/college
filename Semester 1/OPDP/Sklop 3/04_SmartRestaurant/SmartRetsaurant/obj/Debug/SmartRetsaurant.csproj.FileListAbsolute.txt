@@ -1,0 +1,45 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\bin\Debug\SmartRetsaurant.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\bin\Debug\SmartRetsaurant.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\bin\Debug\SmartRetsaurant.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Properties.Resources.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.csproj.GenerateResource.Cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.HomePage.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.NalaganjePozdrav.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Prijava.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Registracija.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Zemljevid.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Nastavitve.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.PogojiUporabe.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.ProfilRestavracije.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.MENI.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.RezervacijaMize.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Dostava.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.SeznamRestavracij.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.ProfilRestavracije2.resources
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.NAstavitvecs.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\bin\Debug\SmartRetsaurant.exe.config
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\bin\Debug\SmartRetsaurant.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\bin\Debug\SmartRetsaurant.pdb
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Dostava.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.HomePage.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.MENI.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.NalaganjePozdrav.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Nastavitve.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.NAstavitvecs.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.PogojiUporabe.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Prijava.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.ProfilRestavracije.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.ProfilRestavracije2.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Properties.Resources.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Registracija.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.RezervacijaMize.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.SeznamRestavracij.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.Zemljevid.resources
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.csproj.GenerateResource.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\DelozDatumi\SmartRetsaurant\SmartRetsaurant\obj\Debug\SmartRetsaurant.pdb

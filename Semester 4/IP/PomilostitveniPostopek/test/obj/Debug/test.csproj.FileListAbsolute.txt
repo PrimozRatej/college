@@ -1,0 +1,20 @@
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\bin\Debug\test.dll
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\bin\Debug\test.pdb
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\bin\Debug\PomilostitveniPostopek.exe
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\bin\Debug\PomilostitveniPostopek.pdb
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\obj\Debug\test.dll
+C:\Users\Primoz\Documents\CODE\IP\PomilostitveniPostopek\test\obj\Debug\test.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\bin\Debug\test.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\bin\Debug\test.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\bin\Debug\PomilostitveniPostopek.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\bin\Debug\PomilostitveniPostopek.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\bin\Debug\PomilostitveniPostopek.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\obj\Debug\test.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Informacijski procesi\Vaje\PomilostitveniPostopek\test\obj\Debug\test.pdb

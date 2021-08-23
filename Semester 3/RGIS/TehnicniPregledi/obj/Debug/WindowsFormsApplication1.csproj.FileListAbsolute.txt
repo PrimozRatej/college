@@ -1,0 +1,13 @@
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OknoZacetno.resources
+c:\users\primož\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.VnosPodatkovOvozilihOkno.resources
+C:\Users\Primož\Univerza v Mariboru\OneDrive - Univerza v Mariboru\College Life\2. letnik\Razvoj in Gradnja Informacijskih sistemov\RatejCvahte_Vozni_park_generiranakoda.zip\Implementacija\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Primož\Univerza v Mariboru\OneDrive - Univerza v Mariboru\College Life\2. letnik\Razvoj in Gradnja Informacijskih sistemov\RatejCvahte_Vozni_park_generiranakoda.zip\Implementacija\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Primož\Univerza v Mariboru\OneDrive - Univerza v Mariboru\College Life\2. letnik\Razvoj in Gradnja Informacijskih sistemov\RatejCvahte_Vozni_park_generiranakoda.zip\Implementacija\obj\Debug\WindowsFormsApplication1.pdb

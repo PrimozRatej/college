@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "vpisGesla";
+}
+<h2>Vpis gesla:</h2>
+@using (Html.BeginForm())
+{
+    if (ViewBag.opozorilo != null)
+    {
+        <p><b>@ViewBag.opozorilo</b></p><br />
+    }
+    <table class="vpisPodatkov">
+        <tr>
+            <td class="glava">eNaslov:</td>
+            <td><input type="text" name="eNaslov" /></td>
+        </tr>
+        <tr>
+            <td>Geslo:</td>
+            <td><input type="text" name="gesloPrvic" /></td>
+        </tr>
+        <tr>
+            <td>Ponovi geslo:</td>
+            <td><input type="text" name="gesloDrugic" /></td>
+        </tr>
+    </table>
+    <br />
+    <input type="submit" name="Naprej" />
+}
+

@@ -1,0 +1,37 @@
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG_AdminClient.exe.config
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.csprojResolveAssemblyReference.cache
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\MainWindow.g.cs
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\App.g.cs
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient_MarkupCompile.cache
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient_MarkupCompile.lref
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\ApplicationInsights.config
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG_AdminClient.exe
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG_AdminClient.pdb
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG.dll
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG.pdb
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\MainWindow.baml
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.g.resources
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.Properties.Resources.resources
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.csproj.GenerateResource.Cache
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.exe
+C:\Projects\WCF-storitve\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\ApplicationInsights.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG_AdminClient.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG_AdminClient.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG_AdminClient.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG.dll
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\bin\Debug\UrnikGooG.dll.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\MainWindow.g.cs
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\App.g.cs
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient_MarkupCompile.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient_MarkupCompile.lref
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\MainWindow.baml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.g.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.Properties.Resources.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.csproj.GenerateResource.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.csproj.CopyComplete
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\UrnikGooG\UrnikGooG_AdminClient\obj\Debug\UrnikGooG_AdminClient.pdb

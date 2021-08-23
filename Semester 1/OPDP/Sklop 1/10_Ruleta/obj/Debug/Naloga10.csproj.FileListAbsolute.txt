@@ -1,0 +1,6 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\10. naloga - Ruleta (9)\Naloga10\Naloga10\bin\Debug\Naloga10.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\10. naloga - Ruleta (9)\Naloga10\Naloga10\obj\Debug\Naloga10.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\10. naloga - Ruleta (9)\Naloga10\Naloga10\bin\Debug\Naloga10.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\10. naloga - Ruleta (9)\Naloga10\Naloga10\bin\Debug\Naloga10.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\10. naloga - Ruleta (9)\Naloga10\Naloga10\obj\Debug\Naloga10.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\10. naloga - Ruleta (9)\Naloga10\Naloga10\obj\Debug\Naloga10.pdb

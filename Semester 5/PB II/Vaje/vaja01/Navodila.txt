@@ -1,0 +1,29 @@
+NALOGA 40: RESTAVRACIJA
+Lastniki restavracije so se odločili, da bodo modernizirali svoje poslovanje z uvedbo
+računalnika. Le-ta naj bi jim uvedel "red" v vse sfere njihovega delovanja.
+Omogočal naj bi jim izpis njihove celotne ponudbe ali pa le omejen del ponudbe (npr. sladice,
+začetne jedi) skupaj z cenami. Prav tako bi nadzoroval strežbo pri posamezni mizi ali
+zaključeni družbi. Natakar bi sproti beležil vsa naročila in ob koncu izpisal račun, iz katerega
+je razvidna številka mize, kdo jo je stregel in seveda kaj in koliko ter po kakšni ceni je bilo pri
+mizi naročenih jedi in pijače.
+Za potrebe delovanja restavracije, bi z računalnikom vodili zaloge (hrana in pijača) in na
+osnovi stanja zalog oblikovali naročila, katera bi avtomatsko izpisovali.
+Beležiti želijo tudi vsa v naprej dogovorjena naročila in njihovo namembnost (poslovno
+kosilo, poroka). S časom bi si oblikovali seznam stalnih strank, ki bi se jih spomnili ob
+praznikih s čestitko ali kakšno drugo pozornostjo.
+Vprašanja:
+1. Kakšna je vrednost vseh izpisanih računov dne '30.03.2002'?
+2. Koliko denarja imamo v zalogah?
+3. Koliko znaša povprečni račun?
+4. Katere pijače so dražje od povprečja?
+Vir podatkov
+Račun iz restavracije in lastne izkušnje
+
+Komentar*
+V modelu vam manjkajo določeni koncepti. Npr. na računu ne bodo posamezni artikli, temveč jedi. 
+Artikel razumem kot npr. jajce, za katerega moramo spremljati neko zalogo. 
+Jed pa so lahko npr. palačinke, ki jih nekdo naroči. 
+Artikel ima več cen (v različnih obdobjih) ampak eno ceno lahko tudi ima več artiklov. 
+Iz modela ni jasno razvidno, kdo so natakarji, koga strežejo, ipd. Kaj predstavlja entiteta Skupina? 
+Naročilo_has_artikel je sedaj vmesna entiteta ki združuje vse - je to smiselno? 
+Ko boste dodali še entitete kot so Jed in podobno, se bo tukaj situacija malo spremenila.

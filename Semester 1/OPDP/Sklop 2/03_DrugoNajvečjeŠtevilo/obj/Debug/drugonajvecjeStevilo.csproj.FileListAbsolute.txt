@@ -1,0 +1,25 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\1.II - naloga - Izpis večkratnikov (3)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\1.II - naloga - Izpis večkratnikov (3)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\1.II - naloga - Izpis večkratnikov (3)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\1.II - naloga - Izpis večkratnikov (3)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\1.II - naloga - Izpis večkratnikov (3)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\1.II - naloga - Izpis večkratnikov (3)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\drugo\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\drugo\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\drugo\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\drugo\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\drugo\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\drugo\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.csprojResolveAssemblyReference.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe.config
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\bin\Debug\drugonajvecjeStevilo.pdb
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop2\3.II - naloga - Drugo najmanjše število (6)\drugonajvecjeStevilo\drugonajvecjeStevilo\obj\Debug\drugonajvecjeStevilo.pdb

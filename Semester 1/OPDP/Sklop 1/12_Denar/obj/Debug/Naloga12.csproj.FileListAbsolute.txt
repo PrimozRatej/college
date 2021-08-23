@@ -1,0 +1,6 @@
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\Naloga12\Naloga12\bin\Debug\Naloga12.exe.config
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\Naloga12\Naloga12\bin\Debug\Naloga12.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\Naloga12\Naloga12\bin\Debug\Naloga12.pdb
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\Naloga12\Naloga12\obj\Debug\Naloga12.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\Naloga12\Naloga12\obj\Debug\Naloga12.exe
+C:\Users\Primoz\Dropbox\College Life\OPDP\12. - naloga - Denar (9)\Naloga12\Naloga12\obj\Debug\Naloga12.pdb

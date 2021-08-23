@@ -1,0 +1,7 @@
+C:\Users\primoz.ratej\Google Drive\College Life\3. letnik\Razvoj informacijskih rešitev\Vaje\naloga_01\tocilnicaPijace_naloga01\tocilnicaPijace_naloga02\bin\Debug\tocilnicaPijace_naloga02.exe.config
+C:\Users\primoz.ratej\Google Drive\College Life\3. letnik\Razvoj informacijskih rešitev\Vaje\naloga_01\tocilnicaPijace_naloga01\tocilnicaPijace_naloga02\bin\Debug\tocilnicaPijace_naloga02.exe
+C:\Users\primoz.ratej\Google Drive\College Life\3. letnik\Razvoj informacijskih rešitev\Vaje\naloga_01\tocilnicaPijace_naloga01\tocilnicaPijace_naloga02\bin\Debug\tocilnicaPijace_naloga02.pdb
+C:\Users\primoz.ratej\Google Drive\College Life\3. letnik\Razvoj informacijskih rešitev\Vaje\naloga_01\tocilnicaPijace_naloga01\tocilnicaPijace_naloga02\obj\Debug\tocilnicaPijace_naloga02.csproj.CoreCompileInputs.cache
+C:\Users\primoz.ratej\Google Drive\College Life\3. letnik\Razvoj informacijskih rešitev\Vaje\naloga_01\tocilnicaPijace_naloga01\tocilnicaPijace_naloga02\obj\Debug\tocilnicaPijace_naloga02.exe
+C:\Users\primoz.ratej\Google Drive\College Life\3. letnik\Razvoj informacijskih rešitev\Vaje\naloga_01\tocilnicaPijace_naloga01\tocilnicaPijace_naloga02\obj\Debug\tocilnicaPijace_naloga02.pdb
+C:\Users\primoz.ratej\Google Drive\College Life\3. letnik\Razvoj informacijskih rešitev\Vaje\naloga_01\tocilnicaPijace_naloga01\tocilnicaPijace_naloga02\obj\Debug\tocilnicaPijace_naloga02.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Primoz\Desktop\Delovna knjižica\Delovna knjižica\bin\Debug\Delovna knjižica.exe.config
+C:\Users\Primoz\Desktop\Delovna knjižica\Delovna knjižica\bin\Debug\Delovna knjižica.exe
+C:\Users\Primoz\Desktop\Delovna knjižica\Delovna knjižica\bin\Debug\Delovna knjižica.pdb
+C:\Users\Primoz\Desktop\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.csprojResolveAssemblyReference.cache
+C:\Users\Primoz\Desktop\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.exe
+C:\Users\Primoz\Desktop\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.pdb
+C:\Users\Primoz\Dropbox\Delovna knjižica\Delovna knjižica\bin\Debug\Delovna knjižica.exe.config
+C:\Users\Primoz\Dropbox\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.exe
+C:\Users\Primoz\Dropbox\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.pdb
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\Delovna knjižica\Delovna knjižica\bin\Debug\Delovna knjižica.exe.config
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\Delovna knjižica\Delovna knjižica\bin\Debug\Delovna knjižica.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\Delovna knjižica\Delovna knjižica\bin\Debug\Delovna knjižica.pdb
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.exe
+C:\Users\primo\Documents\MyGit\1_1. Semester\1. Semester\OPDP\Sklop3\Delovna knjižica\Delovna knjižica\obj\Debug\Delovna knjižica.pdb

@@ -1,0 +1,74 @@
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe.config
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.g.cs
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\App.g.cs
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.cache
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.lref
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.baml
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.g.resources
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.Properties.Resources.resources
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csproj.GenerateResource.Cache
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\boris\Desktop\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csprojResolveAssemblyReference.cache
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe.config
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.exe
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.pdb
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.pdb
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csprojResolveAssemblyReference.cache
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.g.cs
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\App.g.cs
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.cache
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.lref
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.baml
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.g.resources
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.Properties.Resources.resources
+F:\BO backup - 30-9-2015\Documents\Vaje\2015-2016\OZRA\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csproj.GenerateResource.Cache
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe.config
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csprojResolveAssemblyReference.cache
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.g.cs
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\App.g.cs
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.cache
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.lref
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.baml
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.g.resources
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.Properties.Resources.resources
+C:\Users\aljaz\Downloads\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csproj.GenerateResource.Cache
+D:\Aljaz\FERI\2. Letnik\OZRA\Preverjanja\Dodatni rok\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe.config
+D:\Aljaz\FERI\2. Letnik\OZRA\Preverjanja\Dodatni rok\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.exe
+D:\Aljaz\FERI\2. Letnik\OZRA\Preverjanja\Dodatni rok\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe.config
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csprojResolveAssemblyReference.cache
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.g.cs
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\App.g.cs
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.cache
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.lref
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.baml
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.g.resources
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.Properties.Resources.resources
+C:\Users\shawt\Desktop\Preverjanja (1)\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csproj.GenerateResource.Cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe.config
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\bin\Debug\PredlogaZaPreverjanjeV2.pdb
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.g.cs
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\App.g.cs
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2_MarkupCompile.lref
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\MainWindow.baml
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.g.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.Properties.Resources.resources
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csproj.GenerateResource.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.exe
+C:\Users\primo\Documents\MyGit\2_2. Semester\2. Semester\Orodja za razvoj aplikacij\PredlogaZaPreverjanjeV2\PredlogaZaPreverjanjeV2\obj\Debug\PredlogaZaPreverjanjeV2.pdb

@@ -1,0 +1,29 @@
+﻿@model dsr_vaja1.Models.Igra.Igra
+
+<div class="form-group">
+    @Html.LabelFor(igr => igr.ime, "Ime igre")
+    @Html.TextBoxFor(igr=>igr.ime, new { @id="ime_igre", @name="Ime_igre", @class="form-control", @placeholder="Ime igre"})
+    @Html.ValidationMessageFor(igr => igr.ime)
+</div>
+<div class="form-group">
+    @Html.LabelFor(igr => igr.proizvajalec, "Proizvajalec igre")
+    @Html.TextBoxFor(igr => igr.proizvajalec, new { @id = "proizvajalec_igre", @name = "proizvajalec", @class = "form-control", @placeholder = "Proizvajalec" })
+    @Html.ValidationMessageFor(igr => igr.proizvajalec)
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(igr=>igr.cena, "Cena")
+    @Html.EditorFor(igr=>igr.cena, "DoubleCena")
+</div>
+<div class="form-group">
+    @Html.LabelFor(igr=>igr.datum_prihoda, "Datum prihoda")
+    @Html.EditorFor(igr => igr.datum_prihoda, "DateTime")
+</div>
+<div class="form-group">
+    @Html.LabelFor(igr=>igr.zaloga, "Na zalogi")
+    @Html.EditorFor(igr => igr.zaloga, "Int32")
+</div>
+<div class="form-group">
+    @Html.LabelFor(igr=>igr.Zvrsti, "Zvrst")
+    @Html.DropDownListFor(igr => igr.Zvrsti, Model.zvrsti_list)
+</div>
