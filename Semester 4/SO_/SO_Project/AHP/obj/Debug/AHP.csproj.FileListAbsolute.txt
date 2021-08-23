@@ -1,0 +1,12 @@
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.csproj.AssemblyReference.cache
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.AHPOkno.resources
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.DodajParameter.resources
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.Properties.Resources.resources
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.Zacetni.resources
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.csproj.GenerateResource.cache
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.csproj.CoreCompileInputs.cache
+C:\Users\primo\Desktop\SO_Project\AHP\bin\Debug\AHP.exe.config
+C:\Users\primo\Desktop\SO_Project\AHP\bin\Debug\AHP.exe
+C:\Users\primo\Desktop\SO_Project\AHP\bin\Debug\AHP.pdb
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.exe
+C:\Users\primo\Desktop\SO_Project\AHP\obj\Debug\AHP.pdb
