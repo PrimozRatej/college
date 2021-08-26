@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="150" src="media/9df5055488fae6703a7a88747656d4ee.png" />
+  <img width="250" height="150" src="media/feri_logo.png" />
 </p>
 
 # Od problema do programa (obrazec za vaje)
