@@ -1,10 +1,9 @@
-=======
-![](RackMultipart20210826-4-1gzojpa_html_a2fd4c31bb03c84a.png)
+![Logo, company name Description automatically
+generated](media/9df5055488fae6703a7a88740516d4ee.png)
 
-**# Od problema do programa**
+Od problema do programa
 
-# **(obrazec za vaje)**
->>>>>>> 0a37aa510b8ff1535c7b9a7dc0eb9cfb93773954
+(obrazec za vaje)
 
 **Ime:** Primož
 
@@ -12,7 +11,6 @@
 
 **Naloga:** 1. Obseg pravokotnika
 
-<<<<<<< HEAD
 Vsebina
 
 [1. Besedilo naloge 2](#besedilo-naloge)
@@ -76,4 +74,3 @@ ter program omejimo, da se ne ugasne in čaka na odziv uporabnika.
 
 ![Diagram Description automatically
 generated](media/f45a79978809bde282ba7817dce796d0.jpeg)
-=======
