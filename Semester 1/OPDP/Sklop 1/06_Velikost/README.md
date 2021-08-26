@@ -86,37 +86,37 @@ zavzamemo vse možne kombinacije. Na koncu program izpiše drugo najvišjo osebo
 
 ```python
 READ oseba1, oseba2, oseba3, oseba4
-IF oseba1\>=48 AND oseba2\>=48 AND oseba3\>=48 AND oseba4\>=48
+IF oseba1>=48 AND oseba2>=48 AND oseba3>=48 AND oseba4>=48
 THEN
 
-  IF oseba1\>251 AND oseba2\>251 OR oseba1\>251 AND oseba3\>251
-  OR oseba1\>251 AND oseba4\>251 OR oseba2\>251 AND oseba3\>251
-  OR oseba2\>251 AND oseba4\>251 OR oseba3\>251 AND oseba4\>251
+  IF oseba1>251 AND oseba2>251 OR oseba1>251 AND oseba3>251
+  OR oseba1>251 AND oseba4>251 OR oseba2>251 AND oseba3>251
+  OR oseba2>251 AND oseba4>251 OR oseba3>251 AND oseba4>251
   THEN
     PRINT napaka
   ELSE
 
-  IF oseba1\<oseba2 AND oseba1\>oseba3 AND oseba1\>oseba4 OR
-  oseba1\>oseba2 AND oseba1\<oseba3 AND oseba1\>oseba4 OR
-  oseba1\>oseba2 AND oseba1\>oseba3 AND oseba1\<oseba4 THAN
+  IF oseba1<oseba2 AND oseba1>oseba3 AND oseba1>oseba4 OR
+  oseba1>oseba2 AND oseba1<oseba3 AND oseba1>oseba4 OR
+  oseba1>oseba2 AND oseba1>oseba3 AND oseba1<oseba4 THAN
     PRINT oseba1
   END IF
 
-  IF oseba2\<oseba1 AND oseba2\>oseba3 AND oseba2\>oseba4 OR
-  oseba2\>oseba1 AND oseba2\<oseba3 AND oseba2\>oseba4 OR
-  oseba2\>oseba1 AND oseba2\>oseba3 AND oseba2\<oseba4 THAN
+  IF oseba2<oseba1 AND oseba2>oseba3 AND oseba2>oseba4 OR
+  oseba2>oseba1 AND oseba2<oseba3 AND oseba2>oseba4 OR
+  oseba2>oseba1 AND oseba2>oseba3 AND oseba2<oseba4 THAN
     PRINT oseba2
   END IF
 
-  IF oseba3\<oseba1 AND oseba3\>oseba2 AND oseba3\>oseba4 OR
-  oseba3\>oseba1 AND oseba3\<oseba2 AND oseba3\>oseba4 OR
-  oseba3\>oseba1 AND oseba3\>oseba2 AND oseba3\<oseba4 THAN
+  IF oseba3<oseba1 AND oseba3>oseba2 AND oseba3>oseba4 OR
+  oseba3>oseba1 AND oseba3<oseba2 AND oseba3>oseba4 OR
+  oseba3>oseba1 AND oseba3>oseba2 AND oseba3<oseba4 THAN
     PRINT oseba3
   END IF
   
-  IF oseba4\<oseba1 AND oseba4\>oseba2 AND oseba4\>oseba3 OR
-  oseba4\>oseba1 AND oseba4\<oseba2 AND oseba4\>oseba3 OR
-  oseba4\>oseba1 AND oseba4\>oseba2 AND oseba4\<oseba3 THAN
+  IF oseba4<oseba1 AND oseba4>oseba2 AND oseba4>oseba3 OR
+  oseba4>oseba1 AND oseba4<oseba2 AND oseba4>oseba3 OR
+  oseba4>oseba1 AND oseba4>oseba2 AND oseba4<oseba3 THAN
     PRINT oseba4
   END IF
   
