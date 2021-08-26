@@ -1,8 +1,5 @@
-![Logo, company name Description automatically
-generated](media/9df5055488fae6703a7a88740516d4ee.png)
-
 <p align="center">
-  <img src="media/9df5055488fae6703a7a88740516d4ee.png" />
+  <img width="500" height="350" src="media/9df5055488fae6703a7a88740516d4ee.png" />
 </p>
 
 # Od problema do programa (obrazec za vaje)
