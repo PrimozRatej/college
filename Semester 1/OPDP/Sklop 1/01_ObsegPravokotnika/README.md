@@ -1,5 +1,3 @@
-![Logo, company name Description automatically
-generated](media/9df5055488fae6703a7a88740516d4ee.png)
 =======
 ![](RackMultipart20210826-4-1gzojpa_html_a2fd4c31bb03c84a.png)
 
