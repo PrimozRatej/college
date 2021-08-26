@@ -4,9 +4,7 @@
 
 # Od problema do programa (obrazec za vaje)
 
-**Ime:** Primož
-
-**Priimek:** Ratej Cvahte
+**Avtor:** Primož Ratej Cvahte
 
 # **Naloga:** 5. Tehnica
 
