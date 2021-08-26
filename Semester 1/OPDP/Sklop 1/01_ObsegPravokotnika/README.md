@@ -86,3 +86,15 @@ cond(no)->op
 
 ![Diagram Description automatically
 generated](media/f45a79978809bde282ba7817dce796d0.jpeg)
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="editormd/editormd.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        var editor = editormd("test-editor", {
+            // width  : "100%",
+            // height : "100%",
+            path   : "editormd/lib/"
+        });
+    });
+</script>
