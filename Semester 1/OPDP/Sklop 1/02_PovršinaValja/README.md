@@ -80,7 +80,7 @@ valja po enačbi površina lika = 2\*površina osnovne ploskve + površina plaš
 volumen valja po enačbi volumen = površina osnovne ploskve \* višina valja.
 
 Na koncu programa izpišemo volumen in površino valja.
-```C
+```C++
 READ d, v
 SET r = d/2
 SET konstanta pi = 3.141592;
