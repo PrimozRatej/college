@@ -4,27 +4,25 @@
 
 # Od problema do programa (obrazec za vaje)
 
-**Ime:** Primož
-
-**Priimek:** Ratej Cvahte
+**Avtor:** Primož Ratej Cvahte
 
 # **Naloga:** 1. Obseg pravokotnika
 
 **Vsebina:**
 
-  [1. Besedilo naloge 2](#besedilo-naloge)
+  [1. Besedilo naloge](#besedilo-naloge)
 
-  [2. Analiza rešitve problema 2](#_Toc80875947)
+  [2. Analiza rešitve problema](#_Toc80875947)
 
-  [2.1. Namen in zahteve naloge 2](#_Toc80875948)
+  [2.1. Namen in zahteve naloge](#_Toc80875948)
 
-  [2.2. Vhodi 2](#_Toc80875949)
+  [2.2. Vhodi](#_Toc80875949)
 
-  [2.3. Izhodi 2](#izhodi)
+  [2.3. Izhodi](#izhodi)
 
-  [2.4. Omejitve 2](#omejitve)
+  [2.4. Omejitve](#omejitve)
 
-  [3. Načrt rešitve problema 3](#_Toc80875952)
+  [3. Načrt rešitve problema](#_Toc80875952)
 
 # Besedilo naloge
 
