@@ -1,14 +1,17 @@
-Od problema do programa
 
-(obrazec za vaje)
+<p align="center">
+  <img width="250" height="150" src="media/9df5055488fae6703a7a88747656d4ee.png" />
+</p>
+
+# Od problema do programa (obrazec za vaje)
 
 **Ime:** Primož
 
 **Priimek:** Ratej Cvahte
 
-**Naloga:** 2. Površina, volumen pokončnega stožca.
+# **Naloga:** 2. Površina, volumen pokončnega stožca.
 
-Vsebina
+**Vsebina:**
 
 [1. Besedilo naloge 2](#besedilo-naloge)
 
