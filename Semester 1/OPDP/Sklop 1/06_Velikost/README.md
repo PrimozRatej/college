@@ -4,28 +4,25 @@
 
 # Od problema do programa (obrazec za vaje)
 
-**Ime:** Primož
-
-**Priimek:** Ratej Cvahte
+**Avtor:** Primož Ratej Cvahte
 
 # **Naloga:** 6. Velikost
 
 **Vsebina:**
 
+[1. Besedilo naloge](#besedilo-naloge)
 
-[1. Besedilo naloge 2](#besedilo-naloge)
+[2. Analiza rešitve problema](#_Toc433146828)
 
-[2. Analiza rešitve problema 2](#_Toc433146828)
+[2.1. Namen in zahteve naloge](#_Toc433146829)
 
-[2.1. Namen in zahteve naloge 2](#_Toc433146829)
+[2.2. Vhodi](#_Toc433146830)
 
-[2.2. Vhodi 2](#_Toc433146830)
+[2.3. Izhodi](#izhodi)
 
-[2.3. Izhodi 2](#izhodi)
+[2.4. Omejitve](#omejitve)
 
-[2.4. Omejitve 2](#omejitve)
-
-[3. Načrt rešitve problema 3](#_Toc433146833)
+[3. Načrt rešitve problema](#_Toc433146833)
 
 # Besedilo naloge
 
