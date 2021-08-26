@@ -9,6 +9,7 @@
 # **Naloga:** 4./II - naloga – Aritmetična sredina in standardni odklon števil
 
 **Vsebina:**
+
 [1. Besedilo naloge](#besedilo-naloge)
 
 [2. Analiza rešitve problema](#_Toc368395464)
