@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="120" src="media/9df5055488fae6703a7a88740516d4ee.png" />
+  <img width="220" height="150" src="media/9df5055488fae6703a7a88740516d4ee.png" />
 </p>
 
 # Od problema do programa (obrazec za vaje)
