@@ -81,10 +81,10 @@ Na koncu programa izpišemo volumen in površino valja.
 READ d, v
 SET r = d/2
 SET konstanta pi = 3.141592;
-IF d \> 0 THEN
-  SET površina = (2\*r\*pi)\*v+(pi\*r\*r\*2)
+IF d > 0 THEN
+  SET površina = (2*r*pi)*v+(pi*r*r*2)
   PRINT površina
-  SET volumen = r \* r \* pi \* v
+  SET volumen = r * r * pi * v
   PRINT volumen
 ELSE
   PRINT Napaka
