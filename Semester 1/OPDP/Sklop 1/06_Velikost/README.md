@@ -84,56 +84,44 @@ je vedno ena oseba višja od druge vendar sta pa ostali dve manjši npr. oseba1 
 manjša od osebe2 vendar je večja od oseb 3 in 4 vendar moramo paziti da pri tem
 zavzamemo vse možne kombinacije. Na koncu program izpiše drugo najvišjo osebo.*
 
-**READ** oseba1, oseba2, oseba3, oseba4
+```python
+READ oseba1, oseba2, oseba3, oseba4
+IF oseba1\>=48 AND oseba2\>=48 AND oseba3\>=48 AND oseba4\>=48
+THEN
 
-**IF** oseba1\>=48 **AND** oseba2\>=48 **AND** oseba3\>=48 **AND** oseba4\>=48
-**THAN**
+  IF oseba1\>251 AND oseba2\>251 OR oseba1\>251 AND oseba3\>251
+  OR oseba1\>251 AND oseba4\>251 OR oseba2\>251 AND oseba3\>251
+  OR oseba2\>251 AND oseba4\>251 OR oseba3\>251 AND oseba4\>251
+  THEN
+    PRINT napaka
+  ELSE
 
-**IF** oseba1\>251 **AND** oseba2\>251 **OR** oseba1\>251 **AND** oseba3\>251
-**OR** oseba1\>251 **AND** oseba4\>251 **OR** oseba2\>251 **AND** oseba3\>251
-**OR** oseba2\>251 **AND** oseba4\>251 **OR** oseba3\>251 **AND** oseba4\>251
-**THAN**
+  IF oseba1\<oseba2 AND oseba1\>oseba3 AND oseba1\>oseba4 OR
+  oseba1\>oseba2 AND oseba1\<oseba3 AND oseba1\>oseba4 OR
+  oseba1\>oseba2 AND oseba1\>oseba3 AND oseba1\<oseba4 THAN
+    PRINT oseba1
+  END IF
 
-**PRINT** napaka
+  IF oseba2\<oseba1 AND oseba2\>oseba3 AND oseba2\>oseba4 OR
+  oseba2\>oseba1 AND oseba2\<oseba3 AND oseba2\>oseba4 OR
+  oseba2\>oseba1 AND oseba2\>oseba3 AND oseba2\<oseba4 THAN
+    PRINT oseba2
+  END IF
 
-**ELSE**
-
-**IF** oseba1\<oseba2 **AND** oseba1\>oseba3 **AND** oseba1\>oseba4 **OR**
-oseba1\>oseba2 **AND** oseba1\<oseba3 **AND** oseba1\>oseba4 **OR**
-oseba1\>oseba2 **AND** oseba1\>oseba3 **AND** oseba1\<oseba4 **THAN**
-
-**PRINT oseba1**
-
-**END IF**
-
-**IF** oseba2\<oseba1 **AND** oseba2\>oseba3 **AND** oseba2\>oseba4 **OR**
-oseba2\>oseba1 **AND** oseba2\<oseba3 **AND** oseba2\>oseba4 **OR**
-oseba2\>oseba1 **AND** oseba2\>oseba3 **AND** oseba2\<oseba4 **THAN**
-
-**PRINT oseba2**
-
-**END IF**
-
-**IF** oseba3\<oseba1 **AND** oseba3\>oseba2 **AND** oseba3\>oseba4 **OR**
-oseba3\>oseba1 **AND** oseba3\<oseba2 **AND** oseba3\>oseba4 **OR**
-oseba3\>oseba1 **AND** oseba3\>oseba2 **AND** oseba3\<oseba4 **THAN**
-
-**PRINT oseba3**
-
-**END IF**
-
-**IF** oseba4\<oseba1 **AND** oseba4\>oseba2 **AND** oseba4\>oseba3 **OR**
-oseba4\>oseba1 **AND** oseba4\<oseba2 **AND** oseba4\>oseba3 **OR**
-oseba4\>oseba1 **AND** oseba4\>oseba2 **AND** oseba4\<oseba3 **THAN**
-
-**PRINT oseba4**
-
-**END IF**
-
-**END IF**
-
-**ELSE**
-
-**PRINT** Prekoračitev spodnje meje
-
-**END IF**
+  IF oseba3\<oseba1 AND oseba3\>oseba2 AND oseba3\>oseba4 OR
+  oseba3\>oseba1 AND oseba3\<oseba2 AND oseba3\>oseba4 OR
+  oseba3\>oseba1 AND oseba3\>oseba2 AND oseba3\<oseba4 THAN
+    PRINT oseba3
+  END IF
+  
+  IF oseba4\<oseba1 AND oseba4\>oseba2 AND oseba4\>oseba3 OR
+  oseba4\>oseba1 AND oseba4\<oseba2 AND oseba4\>oseba3 OR
+  oseba4\>oseba1 AND oseba4\>oseba2 AND oseba4\<oseba3 THAN
+    PRINT oseba4
+  END IF
+  
+END IF
+ELSE
+  PRINT Prekoračitev spodnje meje
+END IF
+```
