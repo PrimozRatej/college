@@ -1,14 +1,16 @@
-Od problema do programa
+<p align="center">
+  <img width="250" height="150" src="media/9df5055488fae6703a7a88740516d4ee.png" />
+</p>
 
-(obrazec za vaje)
+# Od problema do programa (obrazec za vaje)
 
 **Ime:** Primož
 
 **Priimek:** Ratej Cvahte
 
-**Naloga:** 5. Tehnica
+# **Naloga:** 5. Tehnica
 
-Vsebina
+**Vsebina:**
 
 [1. Besedilo naloge 2](#besedilo-naloge)
 
