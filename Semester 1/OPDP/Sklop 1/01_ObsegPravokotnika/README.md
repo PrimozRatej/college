@@ -1,15 +1,13 @@
 ![Logo, company name Description automatically
 generated](media/9df5055488fae6703a7a88740516d4ee.png)
 
-Od problema do programa
-
-(obrazec za vaje)
+# Od problema do programa (obrazec za vaje)
 
 **Ime:** Primož
 
 **Priimek:** Ratej Cvahte
 
-**Naloga:** 1. Obseg pravokotnika
+# **Naloga:** 1. Obseg pravokotnika
 
 Vsebina
 
