@@ -71,8 +71,18 @@ priredili vrednost, ki jo bomo dobili z enačbo za obseg pravokotnika. V
 naslednjem koraku v stavku izpišemo kolikšen je obseg določenega pravokotnika
 ter program omejimo, da se ne ugasne in čaka na odziv uporabnika.
 
-graph LR
-    A-- This is the text! ---B
+###FlowChart
+
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
 
 ![Diagram Description automatically
 generated](media/f45a79978809bde282ba7817dce796d0.jpeg)
