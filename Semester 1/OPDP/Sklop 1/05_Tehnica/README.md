@@ -12,19 +12,19 @@
 
 **Vsebina:**
 
-[1. Besedilo naloge 2](#besedilo-naloge)
+[1. Besedilo naloge](#besedilo-naloge)
 
-[2. Analiza rešitve problema 2](#_Toc433790091)
+[2. Analiza rešitve problema](#_Toc433790091)
 
-[2.1. Namen in zahteve naloge 2](#_Toc433790092)
+[2.1. Namen in zahteve naloge](#_Toc433790092)
 
-[2.2. Vhodi 2](#_Toc433790093)
+[2.2. Vhodi](#_Toc433790093)
 
-[2.3. Izhodi 2](#izhodi)
+[2.3. Izhodi](#izhodi)
 
-[2.4. Omejitve 2](#omejitve)
+[2.4. Omejitve](#omejitve)
 
-[3. Načrt rešitve problema 3](#_Toc433790096)
+[3. Načrt rešitve problema](#_Toc433790096)
 
 # Besedilo naloge
 
