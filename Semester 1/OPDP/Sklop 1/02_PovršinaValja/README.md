@@ -4,27 +4,25 @@
 
 # Od problema do programa (obrazec za vaje)
 
-**Ime:** Primož
-
-**Priimek:** Ratej Cvahte
+**Avtor:** Primož Ratej Cvahte
 
 # **Naloga:** 2. Površina, volumen pokončnega stožca.
 
 **Vsebina:**
 
-[1. Besedilo naloge 2](#besedilo-naloge)
+[1. Besedilo naloge](#besedilo-naloge)
 
-[2. Analiza rešitve problema 2](#_Toc433211252)
+[2. Analiza rešitve problema](#_Toc433211252)
 
-[2.1. Namen in zahteve naloge 2](#_Toc433211253)
+[2.1. Namen in zahteve naloge](#_Toc433211253)
 
-[2.2. Vhodi 2](#_Toc433211254)
+[2.2. Vhodi](#_Toc433211254)
 
-[2.3. Izhodi 2](#izhodi)
+[2.3. Izhodi](#izhodi)
 
-[2.4. Omejitve 2](#omejitve)
+[2.4. Omejitve](#omejitve)
 
-[3. Načrt rešitve problema 3](#_Toc433211257)
+[3. Načrt rešitve problema](#_Toc433211257)
 
 # Besedilo naloge
 
@@ -79,26 +77,17 @@ valja po enačbi površina lika = 2\*površina osnovne ploskve + površina plaš
 volumen valja po enačbi volumen = površina osnovne ploskve \* višina valja.
 
 Na koncu programa izpišemo volumen in površino valja.
-
+```python
 READ d, v
-
 SET r = d/2
-
 SET konstanta pi = 3.141592;
-
 IF d \> 0 THEN
-
-SET površina = (2\*r\*pi)\*v+(pi\*r\*r\*2)
-
-PRINT površina
-
-SET volumen = r \* r \* pi \* v
-
-PRINT volumen
-
+  SET površina = (2\*r\*pi)\*v+(pi\*r\*r\*2)
+  PRINT površina
+  SET volumen = r \* r \* pi \* v
+  PRINT volumen
 ELSE
-
-PRINT Napaka
-
+  PRINT Napaka
 END IF
+```
 
