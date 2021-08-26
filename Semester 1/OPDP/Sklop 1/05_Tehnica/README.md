@@ -80,37 +80,37 @@ SET številoPravilniVnosev = 0
 // če je kateri izmed sadežev manjši od od 85 in večji od 177 ga v izračun ne
 upoštevamo
 // če vnos ustreza izračun povprečne teže in skupne teže za vse sadeže.
-IF sadež1 \>= 85 IN sadež1 \<= 177 DO  
+IF sadež1 >= 85 IN sadež1 <= 177 DO  
   SET seštevek = seštevek + sadež1
   SET številoPravilnihVnosov++
   SET povprečnaTeza = seštevek / številoPravilnihVnosov
 ENDIF
-IF sadež2 \>= 85 IN sadež2 \<= 177 DO
+IF sadež2 >= 85 IN sadež2 <= 177 DO
   SET seštevek = seštevek + sadež2
   SET številoPravilnihVnosov++
   SET povprečnaTeza = seštevek / številoPravilnihVnosov
 ENDIF
-IF sadež3 \>= 85 IN sadež3 \<= 177 DO
+IF sadež3 >= 85 IN sadež3 <= 177 DO
   SET seštevek = seštevek + sadež3
   SET številoPravilnihVnosov++
   SET povprečnaTeza = seštevek / številoPravilnihVnosov
 ENDIF
-IF sadež4 \>= 85 IN sadež4 \<= 177 DO
+IF sadež4 >= 85 IN sadež4 <= 177 DO
   SET seštevek = seštevek + sadež4
   SET številoPravilnihVnosov++
   SET povprečnaTeza = seštevek / številoPravilnihVnosov
 ENDIF
-IF sadež5 \>= 85 IN sadež5 \<= 177 DO
+IF sadež5 >= 85 IN sadež5 <= 177 DO
   SET seštevek = seštevek + sadež5
   SET številoPravilnihVnosov++
   SET povprečnaTeza = seštevek / številoPravilnihVnosov
 ENDIF
-IF sadež6 \>= 85 IN sadež6 \<= 177 DO
+IF sadež6 >= 85 IN sadež6 <= 177 DO
   SET seštevek = seštevek + sadež6
   SET številoPravilnihVnosov++
   SET povprečnaTeza = seštevek / številoPravilnihVnosov
 ENDIF
-IF sadež7 \>= 85 IN sadež7 \<= 177 DO
+IF sadež7 >= 85 IN sadež7 <= 177 DO
   SET seštevek = seštevek + sadež7
   SET številoPravilnihVnosov++
   SET povprečnaTeza = seštevek / številoPravilnihVnosov
