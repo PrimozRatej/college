@@ -161,7 +161,7 @@ STRUCTURE Zaposlen
 	SET ID1
 	SET ID2
 	SET ID3
-	// Psevdokot za metode se nahaja za vsako posebej v dokumentu
+	# Psevdokot za metode se nahaja za vsako posebej v dokumentu
 	PROCEDURE VpisZaposlenih(Zaposlen[]poljeZaposlenih)
 	PROCEDURE IzpisNajstarejšegaZaposlenega(Zaposlen[]poljeZaposlenih)
 	PROCEDURE NajmanjšaDelovnaDoba(Zaposlen[]poljeZaposlenih)
@@ -186,9 +186,9 @@ vpisa zaposlenega to omogoči z vpisom ukaza »KONEC«.
 *Psevdokod:*
 ```python
 PROCEDURE VpisZaposlenihZaposlen[] poljeZaposlenih
-	// Ta spremenljivka nam predstavlja dolžino polja Zaposleni
+	# Ta spremenljivka nam predstavlja dolžino polja Zaposleni
 	SET dolzinaPoljaZaposleni
-	// možen vpis 10 zaposlenih
+	# možen vpis 10 zaposlenih
 	FOR i = 0 TO dolzinaPoljaZaposleni DO 
 		PRINT "Vpisi ime zaposlenega"
 		READ ime
@@ -206,9 +206,9 @@ PROCEDURE VpisZaposlenihZaposlen[] poljeZaposlenih
 		READ ID3
 		PRINT "Vpiši delovno dobo"
 		READ delovnaDoba
-		// Program tudi preverja odstopanja glede delovne dobe
+		# Program tudi preverja odstopanja glede delovne dobe
 		SET najvišjaMožnaDelovnaDoba = starost - 18 
-		// Samo če je vpis podatkov pravilen se podatki vpišejo v strukturo in se števec za vpis v naslednjo mesto v strukturi poveča.
+		# Samo če je vpis podatkov pravilen se podatki vpišejo v strukturo in se števec za vpis v naslednjo mesto v strukturi poveča.
 		IF (starost >= 18 AND starost <= 80) AND (spol = "M" OR spol =
 		"Ž") AND (ID1 >= 0 AND ID1 <= 9) AND (ID2 >= 0 AND ID2 <= 9)
 		AND (ID3 >= 0 AND ID3 <= 9) AND (delovnaDoba <=
@@ -222,9 +222,9 @@ PROCEDURE VpisZaposlenihZaposlen[] poljeZaposlenih
 			poljeZaposlenih[i].ID2 = ID2
 			poljeZaposlenih[i].ID3 = ID3
 			poljeZaposlenih[i].DelovnaŠtevilka = spol + starost + ID1 + ID2 + ID3
-			i = i+1 // tukaj preverjamo koliko je bilo pravilnih vpisov in povečujemo kazalec
-			// Drugače se nepravilen vpis ne upošteva in ima uporabnik možnost nadaljevanja tam kjer se je zmotil.
-		ELSE //Izpis napake pri vpisu
+			i = i+1 # tukaj preverjamo koliko je bilo pravilnih vpisov in povečujemo kazalec
+			# Drugače se nepravilen vpis ne upošteva in ima uporabnik možnost nadaljevanja tam kjer se je zmotil.
+		ELSE #Izpis napake pri vpisu
 			PRINT "Napaka pri vpisu"
 			CONTINUE
 		END IF
@@ -247,20 +247,20 @@ pripada ta največja vrednost.
 *Psevdokod:*
 ```python
 PROCEDURE IzpisNajstarejšegaZaposlenega(Zaposlen[] zaposleni)
-	// Ta spremenljivka predstavlja vrednost dolžine polja Zaposleni
+	# Ta spremenljivka predstavlja vrednost dolžine polja Zaposleni
 	SET dolzinaPoljaZaposleni
 	SET najstarejšVrednost = zaposleni[0].starost
-	//V tej zanki išče najmanjšo vrednost
+	#V tej zanki išče najmanjšo vrednost
 	FOR i = 0 TO < dolzinaPoljaZaposleni - 1 
-		// Pogoj za najmanjšo vrednost
+		# Pogoj za najmanjšo vrednost
 		IF najstarejšVrednost < zaposleni[i].starost THEN 
 			najstarejšVrednost = zaposleni[i].starost
 		END IF
 		i = i+1
 	END FOR
-	// Z zanko gremo čez celo polje
+	# Z zanko gremo čez celo polje
 	FOR i = 0 TO dolzinaPoljaZaposleni 
-		// In izpišemo vse zaposlene ki si delijo najstarejšo vrednost
+		# In izpišemo vse zaposlene ki si delijo najstarejšo vrednost
 		IF zaposleni[i].starost = najstarejšVrednost THEN
 			PRINT zaposleni[i].DelovnaŠtevilka+" "+zaposleni[i].Ime + " " +
 			zaposleni[i].Priimek+"
@@ -282,11 +282,11 @@ manjši od 7.
 *Psevdokod:*
 ```python
 PROCEDURE NajmanjšaDelovnaDoba(Zaposlen[]zaposleni)
-	// ničto delovno dobo nastavimo kot najmanjšo
+	# ničto delovno dobo nastavimo kot najmanjšo
 	SET najmanjšaVrednostDelovneDobe = zaposleni[0].DelovnaDoba
-	SET dolzinaPoljaZaposleni // predstavlja dolžino polja zaposlenih
-	FOR i = 0 TO dolzinaPoljaZaposleni - 1 DO // iščemo najmanjšo delovno dobo
-		// preverjamo da program gleda samo vpisane osebe
+	SET dolzinaPoljaZaposleni # predstavlja dolžino polja zaposlenih
+	FOR i = 0 TO dolzinaPoljaZaposleni - 1 DO # iščemo najmanjšo delovno dobo
+		# preverjamo da program gleda samo vpisane osebe
 		IF (najmanjšaVrednostDelovneDobe >
 		zaposleni[i].DelovnaDoba)AND(zaposleni[i].Ime != null) THEN
 			najmanjšaVrednostDelovneDobe = zaposleni[i].DelovnaDoba
@@ -294,14 +294,14 @@ PROCEDURE NajmanjšaDelovnaDoba(Zaposlen[]zaposleni)
 		i = i+1
 	END FOR
 	SET števecMINdelovnaDoba = 0
-	FOR i = 0 TO dolzinaPoljaZaposleni DO // Preverimo koliko je
+	FOR i = 0 TO dolzinaPoljaZaposleni DO # Preverimo koliko je
 		zaposlenih z isto delovno dobo
 		IF zaposleni[i].DelovnaDoba = najmanjšaVrednostDelovneDobe THEN
 			števecMINdelovnaDoba = števecMINdelovnaDoba+1
 		END IF
 		i = i+1
 	END FOR
-	IF števecMINdelovnaDoba = 1 THEN // če je samo en tak tega izpišemo
+	IF števecMINdelovnaDoba = 1 THEN # če je samo en tak tega izpišemo
 		FOR j = 0 TO dolzinaPoljaZaposleni - 1 DO
 		IF (zaposleni[j].DelovnaDoba =
 		najmanjšaVrednostDelovneDobe)AND(Zaposleni[j].Ime NOT null) THEN
@@ -311,7 +311,7 @@ PROCEDURE NajmanjšaDelovnaDoba(Zaposlen[]zaposleni)
 		j = j+1
 		END FOR
 	END IF
-	// če je več zaposlenih z isto delovno dobo se držimo pravila iz navodil
+	# če je več zaposlenih z isto delovno dobo se držimo pravila iz navodil
 	IF števecMINdelovnaDoba > 1 THEN
 		FOR j = 0 TO dolzinaPoljaZaposleni - 1 DO
 			IF (zaposleni[j].DelovnaDoba = najmanjšaVrednostDelovneDobe) AND
@@ -336,12 +336,12 @@ OsebaNajprejPoAbecedi, ki določi ali je potrebna zamenjava ali ne.
 *Psevdokod:*
 ```python
 CONSTRUCTOR Zaposlen[] Sortiranje(Zaposlen[]poljeZaposlenih)
-	SET dolzinaPoljaZaposleni // ta spremenjivka predstavlja dolžino polja Zaposleni
-	FOR i = 0 TO dolzinaPoljaZaposleni-1 DO //bubble sort za urejanje
+	SET dolzinaPoljaZaposleni # ta spremenjivka predstavlja dolžino polja Zaposleni
+	FOR i = 0 TO dolzinaPoljaZaposleni-1 DO #bubble sort za urejanje
 		FOR j = i+1 TO dolzinaPoljaZaposleni-1 DO
-			IF poljeZaposlenih[j].Ime = null THEN break // prekini ko ni več zaposlenih
+			IF poljeZaposlenih[j].Ime = null THEN break # prekini ko ni več zaposlenih
 				ELSE IF Program.OsebaNajprejPoAbecedi(poljeZaposlenih[i].Ime,poljeZaposlenih[j].Ime,poljeZaposlenih[i].Priimek,poljeZaposlenih[j].Priimek) = 2 THAN
-					// če je zamenjava potrebna zamenjaj
+					# če je zamenjava potrebna zamenjaj
 					Zaposlen temp = poljeZaposlenih[i]
 					poljeZaposlenih[i] = poljeZaposlenih[j]
 					poljeZaposlenih[j] = temp
@@ -362,10 +362,10 @@ konca in da ne izpiše nevpisanih vrednosti.
 *Psevdokod:*
 ```python
 PROCEDURE IzpisvsehZaposlenih(Zaposlen[]poljeZaposlenih)
-	SET dolzinaPoljaZaposleni // Ta spremenljivka nam predstavlja dolžino polja
+	SET dolzinaPoljaZaposleni # Ta spremenljivka nam predstavlja dolžino polja
 	Zaposleni
-	FOR i = 0 TO dolzinaPoljaZaposleni DO // izpis v zanki
-		IF poljeZaposlenih[i].Ime = null break END IF // ko pride do nevpisane vrednosti prekini
+	FOR i = 0 TO dolzinaPoljaZaposleni DO # izpis v zanki
+		IF poljeZaposlenih[i].Ime = null break END IF # ko pride do nevpisane vrednosti prekini
 		PRINT poljeZaposlenih[i].DelovnaŠtevilka + " " + poljeZaposlenih[i].Ime +"
 		"+ poljeZaposlenih[i].Priimek + " " + poljeZaposlenih[i].starost + " " +
 		+poljeZaposlenih[i].DelovnaDoba
@@ -416,9 +416,9 @@ večja po abecedi.
 ```python
 FUNCTION OsebaNajprejPoAbecedi(ime1, ime2, priimek1, priimek2)
 	SET večjaBeseda = 0
-	SET dolzinaimena1 // to predstavlja dolzino imena 1
-	SET dolzinaimena2 // to predstavlja dolzino imena 2
-	// povečamo besedo, ki je manjša in za toliko kot je manjša dodamo na koncu a-je
+	SET dolzinaimena1 # to predstavlja dolzino imena 1
+	SET dolzinaimena2 # to predstavlja dolzino imena 2
+	# povečamo besedo, ki je manjša in za toliko kot je manjša dodamo na koncu a-je
 	IF dolzinaimena1 > dolzinaimena2 DO
 		FOR i = 0 TO dolzinaimena1-dolzinaimena2 DO
 			ime2 = ime2 + "a"
@@ -431,9 +431,9 @@ FUNCTION OsebaNajprejPoAbecedi(ime1, ime2, priimek1, priimek2)
 			END FOR
 			END IF
 		END IF
-		// isto kot z imeni naredimo z priimki
-		SET dolzinaPriimka1 // to predstavlja dolzino priimka1
-		SET dolzinaPriimka2 // to predstavlja dolzino priimka2
+		# isto kot z imeni naredimo z priimki
+		SET dolzinaPriimka1 # to predstavlja dolzino priimka1
+		SET dolzinaPriimka2 # to predstavlja dolzino priimka2
 		IF dolzinaPriimka1 > dolzinaPriimka2 THEN
 		FOR i = 0 TO dolzinaPriimka1 - dolzinaPriimka2 DO
 			ime2 = ime2 + "a"
@@ -446,34 +446,34 @@ FUNCTION OsebaNajprejPoAbecedi(ime1, ime2, priimek1, priimek2)
 			END FOR
 		END IF
 	END IF
-	// zlepimo imena in priimke
+	# zlepimo imena in priimke
 	SET imePriimek1 = ToLower(ime1 + priimek1)
 	SET imePriimek2 = ToLower(ime2 + priimek2)
-	SET dolzinaImenaInPriimka // predstavlja dolzino zlepljenega niza ime1 in priimek1
-	// preverjali bomo po indexis v tem nizu abeceda
+	SET dolzinaImenaInPriimka # predstavlja dolzino zlepljenega niza ime1 in priimek1
+	# preverjali bomo po indexis v tem nizu abeceda
 	SET abeceda = "abcčdefghijklmnoprsštuvzž"
-	SET dolzinaNizaAbeceda // to predstavlja dolžino niza abeceda
+	SET dolzinaNizaAbeceda # to predstavlja dolžino niza abeceda
 	FOR i = 0 TO dolzinaImenaInPriimka DO
 		SET vrednostbesede1 = 0
 		SET vrednostbesede2 = 0
-		FOR j = 0 TO dolzinaNizaAbeceda DO // preverjamo niz po abecedi
+		FOR j = 0 TO dolzinaNizaAbeceda DO # preverjamo niz po abecedi
 			IF imePriimek1[i]=abeceda[j] THEN
-				vrednostbesede1 = j // dobimo index od mesta v abecedi
+				vrednostbesede1 = j # dobimo index od mesta v abecedi
 			END IF
 			i =i+1
 		END FOR
-		// isto naredimo za drugo osebo
+		# isto naredimo za drugo osebo
 		FOR j = 0 TO dolzinaNizaAbeceda DO
 			IF imePriimek2[i] = abeceda[j] THEN
 				vrednostbesede2 = j
 			END IF
 			j= j+1
 		END FOR
-		// če je vrednostbesede1 večji od vrednostbesede2 vrnemo 1
+		# če je vrednostbesede1 večji od vrednostbesede2 vrnemo 1
 		IF vrednostbesede1 < vrednostbesede2 THEN
 			večjaBeseda = 1
 			break
-			// drugače vrnemo 2
+			# drugače vrnemo 2
 			ELSE IF vrednostbesede1 > vrednostbesede2 THEN
 				večjaBeseda = 2
 				break
@@ -481,10 +481,10 @@ FUNCTION OsebaNajprejPoAbecedi(ime1, ime2, priimek1, priimek2)
 		END IF
 		i = i+1
 	END FOR
-	//Če je 1. oseba po abecedi večja ne glede po čem program gleda ime,priimek če je po abecedi večja oseba 2 funkcija vrne 2 če pa sta enaki pa vrne 0/
-	//oseba1>osebe2 = 1
-	//oseba2>osebe1 = 2
-	//oseba1=osebi2 = 0
+	#Če je 1. oseba po abecedi večja ne glede po čem program gleda ime,priimek če je po abecedi večja oseba 2 funkcija vrne 2 če pa sta enaki pa vrne 0/
+	#oseba1>osebe2 = 1
+	#oseba2>osebe1 = 2
+	#oseba1=osebi2 = 0
 	return večjaBeseda
 END FUNCTION
 ```
@@ -497,17 +497,17 @@ Funkcija ToLower nam omogoča da pretvorimo niz znakov v male črke.
 ```python
 FUNCTION ToLower(beseda)
 	SET malaBeseda = null
-	SET dolzinaBesede // predstavlja dolzino besede
-	FOR i = 0 TO dolzinaBesede DO // v zanki preverjamo kakšna črka je
+	SET dolzinaBesede # predstavlja dolzino besede
+	FOR i = 0 TO dolzinaBesede DO # v zanki preverjamo kakšna črka je
 		besedaodI = beseda[i]
-		// če je beseda med A in Z jo nadomesstimo z isto malo črko
+		# če je beseda med A in Z jo nadomesstimo z isto malo črko
 		IF beseda[i]>='A' AND beseda[i]<='Z' THEN
 			SET malacrka = beseda[i]
-			SET vrednostCrke = // vrednost male črke po ASCII tabeli
+			SET vrednostCrke = # vrednost male črke po ASCII tabeli
 			vrednostCrke = vrednostCrke + 32
-			malacrka = // pretvorimo v znak nazaj
+			malacrka = # pretvorimo v znak nazaj
 			malaBeseda = malaBeseda + malacrka
-			// če je beseda Č,Ž,Š jo nadomestimo z isto malo črko
+			# če je beseda Č,Ž,Š jo nadomestimo z isto malo črko
 		ELSE IF beseda[i]='Č' OR beseda[i]='Š'OR beseda[i]='Ž' THEN
 			SWITCH (beseda[i])
 				CASE 'Ž':
@@ -521,7 +521,7 @@ FUNCTION ToLower(beseda)
 				break
 			END SWITCH
 		END IF
-			ELSE // če črka ni velika jo samo prepišemo
+			ELSE # če črka ni velika jo samo prepišemo
 			malaBeseda = malaBeseda + beseda[i]
 		END IF
 		i = i+1
@@ -538,19 +538,19 @@ spadajo funcija vrne true če najde enega ki ne spada vrne false.
 FUNCTION BesedaSlovenskeAbecede(beseda)
 	SET pravilnost = false
 	beseda = ToLower(beseda)
-	SET dolzinabesede // predstavlja dolzino besede
+	SET dolzinabesede # predstavlja dolzino besede
 	SET abc = "abcčdefghijklmnoprsštuvzž"
-	SET dolzinaAbc // predstvlja dolzino abc niza
+	SET dolzinaAbc # predstvlja dolzino abc niza
 	FOR i = 0 TO dolzinabesede DO
 		FOR j = 0 TO dolzinaAbc DO
-			pravilnost = false // če znak ni slovenske abecede nastavimo na FALSE
+			pravilnost = false # če znak ni slovenske abecede nastavimo na FALSE
 			IF beseda[i] = abc[j] THEN
-				pravilnost = true // če je slovenske abecede nastavimo na TRUE
+				pravilnost = true # če je slovenske abecede nastavimo na TRUE
 				break
 			END IF
 			j = j+1
 		END FOR
-		IF pravilnost = false THEN // V primeru da ni znak slovenske abecede
+		IF pravilnost = false THEN # V primeru da ni znak slovenske abecede
 			tukaj skočimo iz druge zanke
 			pravilnost = false
 			break
