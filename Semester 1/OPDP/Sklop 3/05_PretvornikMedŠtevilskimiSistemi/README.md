@@ -155,7 +155,7 @@ kot polinom z utežjo 8.
 
 -   3\***8**3 + 0\***8**2 + 3\***8**1 + 7\***8**0 = 1536 + 24 +7 = 1567
 
-VIR: <http://projekti.gimvic.org/>
+VIR: <https://www.geeksforgeeks.org/python-oct-function/>
 
 Zato število najprej obrnemo in ga nato index po index računamo kot polinom.
 Funkcija nam vrne celo število ki predstavlja desetiško število pretvorjenega
