@@ -644,11 +644,8 @@ M18111 Primož Ratej 18 0
 
 Program javi napako
 ```bash command-line
-Napake
-
-»W« v imenu
-
-ID1 =12
-
-Starost 81
+user@localhost | Napake
+user@localhost | »W« v imenu
+user@localhost | ID1 =12
+user@localhost | Starost 81
 ```
