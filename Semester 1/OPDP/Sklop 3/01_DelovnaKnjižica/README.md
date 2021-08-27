@@ -575,19 +575,19 @@ sortirane.
 *Psevdokod:*
 ```python
 PROCEDURE Main
-	SET Zaposlen[] poljeZaposlenih //polje zaposlenih dolžine 10
-	Zaposlen.VpisZaposlenih(poljeZaposlenih) // Vpis zaposlenih
-	// pobrišemo konzolsko okno
+	SET Zaposlen[] poljeZaposlenih #polje zaposlenih dolžine 10
+	Zaposlen.VpisZaposlenih(poljeZaposlenih) # Vpis zaposlenih
+	# pobrišemo konzolsko okno
 	PRINT "Sortiran izpis zaposlenih po abecedi:"
-	Zaposlen.Sortiranje(poljeZaposlenih) // sortiramo po abecedi
+	Zaposlen.Sortiranje(poljeZaposlenih) # sortiramo po abecedi
 	Zaposlen.IzpisvsehZaposlenih(poljeZaposlenih)
-	// vstavimo presledek vrstice
+	# vstavimo presledek vrstice
 	PRINT "Izpis najstarejše oseb/e:"
 	Zaposlen.IzpisNajstarejšegaZaposlenega(poljeZaposlenih)
-	// vstavimo presledek vrstice
+	# vstavimo presledek vrstice
 	PRINT "Izpis oseb/e z najmanjšo delovno dobo:"
 	Zaposlen.NajmanjšaDelovnaDoba(poljeZaposlenih)
-	// program ustavimo da se nam ne zapre
+	# program ustavimo da se nam ne zapre
 END PROCEDURE
 ```
 # Testni primeri
