@@ -596,23 +596,15 @@ END PROCEDURE
 |-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | *Ime: Primož* *Priimek: Ratej* *Starost: 20* *Spol: M* *ID1 2:* *ID2 3:* *ID3: 4:* *Delovna doba:2* | *Ime: Jan* *Priimek: Ratej* *Starost: 22* *Spol: M* *ID1 4:* *ID2 5:* *ID3: 7:* *Delovna doba:3* | *Ime: Primož* *Priimek: Kluk* *Starost: 18* *Spol: M* *ID1 2:* *ID2 3:* *ID3: 4:* *Delovna doba:0* | *Ime: Primož* *Priimek: Ratej* *Starost: 20* *Spol: M* *ID1 2:* *ID2 3:* *ID3: 4:* *Delovna doba:2* |
 ```bash
-Sortiran izpis zaposlenih po abecedi:
-
-M22456 Jan Ratej 22 3
-
-M18234 Primož Kluk 18 0
-
-M20456 Primož Ratej 20 2
-
-M20234 Primož Ratej 20 2
-
-Izpis najstarejše oseb/e:
-
-M22456 Jan Ratej 22 3
-
-Izpis oseb/e z najmanjšo delovno dobo:
-
-M18234 Primož Kluk 18 0
+user@localhost | Sortiran izpis zaposlenih po abecedi:
+user@localhost | M22456 Jan Ratej 22 3
+user@localhost | M18234 Primož Kluk 18 0
+user@localhost | M20456 Primož Ratej 20 2
+user@localhost | M20234 Primož Ratej 20 2
+user@localhost | Izpis najstarejše oseb/e:
+user@localhost | M22456 Jan Ratej 22 3
+user@localhost | Izpis oseb/e z najmanjšo delovno dobo:
+user@localhost | M18234 Primož Kluk 18 0
 ```
 *Sortiranje pravilno*
 
@@ -621,19 +613,13 @@ M18234 Primož Kluk 18 0
 | *Ime: Primož* *Priimek: Ratej* *Starost: 80* *Spol: M* *ID1 9:* *ID2 9:* *ID3: 9:* *Delovna doba:62* | *Ime: Primož* *Priimek: Ratej* *Starost: 18* *Spol: M* *ID1 1:* *ID2 1:* *ID3: 1:* *Delovna doba:0* |
 |------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 ```bash
-Sortiran izpis zaposlenih po abecedi:
-
-M80999 Primož Ratej 80 62
-
-M18111 Primož Ratej 18 0
-
-Izpis najstarejše oseb/e:
-
-M80999 Primož Ratej 80 62
-
-Izpis oseb/e z najmanjšo delovno dobo:
-
-M18111 Primož Ratej 18 0
+user@localhost | Sortiran izpis zaposlenih po abecedi:
+user@localhost | M80999 Primož Ratej 80 62
+user@localhost | M18111 Primož Ratej 18 0
+user@localhost | Izpis najstarejše oseb/e:
+user@localhost | M80999 Primož Ratej 80 62
+user@localhost | Izpis oseb/e z najmanjšo delovno dobo:
+user@localhost | M18111 Primož Ratej 18 0
 ```
 *Vpis pravilen*
 
@@ -643,11 +629,9 @@ M18111 Primož Ratej 18 0
 |-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 
 Program javi napako
-<span style="color:black">
-	```bash command-line
-	user@localhost | Napake
-	user@localhost | »W« v imenu
-	user@localhost | ID1 =12|
-	user@localhost | Starost 81|
-	```
-</span>
+```bash command-line
+user@localhost | Napake
+user@localhost | »W« v imenu
+user@localhost | ID1 =12|
+user@localhost | Starost 81|
+```
