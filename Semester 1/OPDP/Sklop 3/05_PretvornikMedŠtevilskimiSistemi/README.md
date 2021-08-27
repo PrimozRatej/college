@@ -283,7 +283,7 @@ PROCEDURE MAIN
 		READ ukaz
 		# delovanje programa je logično za naprej Za vsako funcijo posebej preverjamo če so števila v nizu res števila
 		SWITCH (ukaz)
-			case "10in8":
+			CASE "10in8":
 				PRINT "Vpiši desetiško število: "
 				READ število10
 				IF SoŠtevila(število10) = false THEN 
@@ -293,7 +293,7 @@ PROCEDURE MAIN
 					PRINT "Desetiško število je " + število10 + " njegovo osmiško število je " + Iz10v8(število10Int)
 				END IF
 				BREAK
-			case "8in10":
+			CASE "8in10":
 				PRINT "Vpiši osmiško število: "
 				READ število8
 				IF SoŠtevila(število8) = false THEN 
@@ -304,7 +304,7 @@ PROCEDURE MAIN
 				END IF
 				BREAK
 			# pri seštevanju dveh osmiških števil si pomagamo s pretvorbo v desetiško in nazaj v osmiško.
-			case "sestevanje8in8":
+			CASE "sestevanje8in8":
 				PRINT "Vnesi prvo osmiško število: "
 				READ oct1
 				PRINT "Vnesi drugo osmiško število: "
