@@ -643,9 +643,11 @@ M18111 Primož Ratej 18 0
 |-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 
 Program javi napako
-```bash command-line
-user@localhost> Napake
-user@localhost> »W« v imenu
-user@localhost> ID1 =12|
-user@localhost> Starost 81|
-```
+<span style="color:black">
+	```bash command-line
+	user@localhost | Napake
+	user@localhost | »W« v imenu
+	user@localhost | ID1 =12|
+	user@localhost | Starost 81|
+	```
+</span>
